@@ -1,0 +1,23 @@
+1. **Introduction to Napoleon's Russian Campaign Map**: Alice introduces a map depicting Napoleon's 1812 Russian campaign, highlighting the map's use of a thick band to represent the army's size at various points and a dark lower band for the retreat path, which correlates with temperature and time scales.
+
+2. **Observation of Event Representation**: Alice notes that events are linked to both the black and red paths on the map, indicating different aspects of the campaign.
+
+3. **Initial Russian Encounter**: Alice and Bob discuss an event where Cossacks confront Napoleon's forces, marked [at this part](`laser_indexes=[0], current_vis="newYork.jpg"`).
+
+4. **Exploration of Army Movements and Divisions**: They examine a section where [the two armies meet and divide](`laser_indexes=[3], current_vis="newYork.jpg"`), noting a [division](`laser_indexes=[4], current_vis="newYork.jpg"`) and a [force moving off](`laser_indexes=[5], current_vis="newYork.jpg"`).
+
+5. **Analysis of Campaign Duration**: Bob finds it interesting that [one part of the campaign](`laser_indexes=[6], current_vis="newYork.jpg"`) took as long as [another significant portion](`laser_indexes=[7,8], current_vis="newYork.jpg"`).
+
+6. **Troop Numbers and Losses**: Alice and Bob discuss the army's diminishing numbers, noting specific figures at various points, including [400,000 troops](`laser_indexes=[15], current_vis="newYork.jpg"`), [75,000 troops](`laser_indexes=[16], current_vis="newYork.jpg"`), and the eventual reduction to [10,000 troops](`laser_indexes=[35], current_vis="newYork.jpg"`) from the original [422,000](`laser_indexes=[36], current_vis="newYork.jpg"`).
+
+7. **Weather's Role and Historical Records**: They speculate on the impact of weather and reference historical records, including [the diary of Jacob](`laser_indexes=[72], current_vis="newYork.jpg"`), to understand temperature effects and troop movements.
+
+8. **River Crossings and Troop Losses**: The discussion highlights the significant troop losses during river crossings, with specific instances causing a reduction in numbers, such as from [50,000 to 28,000](`laser_indexes=[48], current_vis="newYork.jpg"`).
+
+9. **Segregation Maps of US Cities**: Transitioning to a different topic, Alice and Bob examine maps showing segregation in US cities, noting population densities and the distribution of ethnic groups in areas like [Manhattan](`laser_indexes=[95], current_vis="newYork.jpg"`) and [Central Park](`laser_indexes=[96], current_vis="newYork.jpg"`).
+
+10. **Analysis of Segregation Patterns**: They observe and compare segregation patterns across different cities, mentioning specific areas like [Monterey Park](`laser_indexes=[127], current_vis="Chicago.jpg"`) in Los Angeles and discussing the stratification of ethnic groups.
+
+11. **Technical Challenges and Observations**: Throughout their discussion, Alice and Bob encounter technical difficulties with their digital tools, affecting their ability to analyze and discuss the maps effectively.
+
+12. **Conclusion and Recording Issues**: They conclude their session by noting the need to stop recording due to technical issues, planning to continue their analysis in a second session.
