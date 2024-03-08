@@ -24,430 +24,284 @@ current_vis = ''
 :::
 
 # Summary
-1. **Introduction to Napoleon's Russian Campaign Map**: Alice introduces a map depicting Napoleon's 1812 Russian campaign, highlighting the map's use of a thick band to represent the army's size at various points and a dark lower band for the retreat path, which correlates with temperature and time scales.
+1. **Napoleon's Retreat Visualization**: P3 introduces a visual representation of Napoleon's retreat from Moscow in 1812, highlighting the correlation between the army's size and temperature changes during the retreat. The red band indicates the army's size at various positions, while the dark band signifies the cold winter retreat [for the retreat](`laser_indexes=[0], current_vis="1920px-Minard_Update.png"`).
 
-2. **Observation of Event Representation**: Alice notes that events are linked to both the black and red paths on the map, indicating different aspects of the campaign.
+2. **Temperature and Army Size Correlation**: P3 and P4 discuss the relationship between temperature changes and the army's size. They note a direct correlation where the army's size decreases as temperatures drop, indicating significant losses during colder conditions.
 
-3. **Initial Russian Encounter**: Alice and Bob discuss an event where Cossacks confront Napoleon's forces, marked [at this part](`laser_indexes=[0], current_vis="newYork.jpg"`).
+3. **Misinterpretation and Clarification**: Initially, there's confusion about the correlation between the red path, representing the army's size, and temperature changes. P4 clarifies that as the temperature decreases, the band representing the army's size thins out, indicating a decrease in the army's size due to colder temperatures.
 
-4. **Exploration of Army Movements and Divisions**: They examine a section where [the two armies meet and divide](`laser_indexes=[3], current_vis="newYork.jpg"`), noting a [division](`laser_indexes=[4], current_vis="newYork.jpg"`) and a [force moving off](`laser_indexes=[5], current_vis="newYork.jpg"`).
+4. **Representation of Army Size**: P4 explains that the number of people present in Napoleon's army is represented by the width of [the colored stones](`laser_indexes=[5], current_vis="1920px-Minard_Update.png"`), further emphasizing the visual representation's significance in understanding the army's size throughout the retreat.
 
-5. **Analysis of Campaign Duration**: Bob finds it interesting that [one part of the campaign](`laser_indexes=[6], current_vis="newYork.jpg"`) took as long as [another significant portion](`laser_indexes=[7,8], current_vis="newYork.jpg"`).
+5. **Analysis of Segregation in U.S. Cities**: P3 and P4 analyze maps showing segregation conditions in different U.S. cities, where one dot represents 120 people, and different ethnic groups are colored differently. They observe significant segregation patterns, such as dense [red pockets](`laser_indexes=[7], current_vis="newYork.jpg"`) of black ethnicity and communities of Asian people tending to be in [the same community](`laser_indexes=[8], current_vis="newYork.jpg"`).
 
-6. **Troop Numbers and Losses**: Alice and Bob discuss the army's diminishing numbers, noting specific figures at various points, including [400,000 troops](`laser_indexes=[15], current_vis="newYork.jpg"`), [75,000 troops](`laser_indexes=[16], current_vis="newYork.jpg"`), and the eventual reduction to [10,000 troops](`laser_indexes=[35], current_vis="newYork.jpg"`) from the original [422,000](`laser_indexes=[36], current_vis="newYork.jpg"`).
+6. **Residential and Amenity Areas**: They identify [residential areas here](`laser_indexes=[14], current_vis="newYork.jpg"`) and [the amenity area](`laser_indexes=[13], current_vis="newYork.jpg"`), discussing the distribution of ethnic groups in these areas and noting the sparser population moving from inner city to the outskirts.
 
-7. **Weather's Role and Historical Records**: They speculate on the impact of weather and reference historical records, including [the diary of Jacob](`laser_indexes=[72], current_vis="newYork.jpg"`), to understand temperature effects and troop movements.
+7. **Global Temperature and Climate Change Trends**: P3 and P4 discuss long-term trends in global temperature and climate change, noting a significant rise in temperature from 1880 to 2020, as indicated by [a black line](`laser_indexes=[64], current_vis="Chicago.jpg"`) where the temperature has [risen significantly](`laser_indexes=[65], current_vis="LosA.jpg"`) over the years.
 
-8. **River Crossings and Troop Losses**: The discussion highlights the significant troop losses during river crossings, with specific instances causing a reduction in numbers, such as from [50,000 to 28,000](`laser_indexes=[48], current_vis="newYork.jpg"`).
-
-9. **Segregation Maps of US Cities**: Transitioning to a different topic, Alice and Bob examine maps showing segregation in US cities, noting population densities and the distribution of ethnic groups in areas like [Manhattan](`laser_indexes=[95], current_vis="newYork.jpg"`) and [Central Park](`laser_indexes=[96], current_vis="newYork.jpg"`).
-
-10. **Analysis of Segregation Patterns**: They observe and compare segregation patterns across different cities, mentioning specific areas like [Monterey Park](`laser_indexes=[127], current_vis="Chicago.jpg"`) in Los Angeles and discussing the stratification of ethnic groups.
-
-11. **Technical Challenges and Observations**: Throughout their discussion, Alice and Bob encounter technical difficulties with their digital tools, affecting their ability to analyze and discuss the maps effectively.
-
-12. **Conclusion and Recording Issues**: They conclude their session by noting the need to stop recording due to technical issues, planning to continue their analysis in a second session.
+8. **Storm Intensity Analysis**: They analyze the increase in storm intensity over the years, observing more category 5 storms and a general increase in the total number of storms. They note that category 4 storms have become the most prevalent, indicating that storms are getting stronger but not consistently reaching category 5 intensity.
 
 # Transcript
-B:  Let's just see what we can find.
+P4:  And it looks like as they marched from December to October, it reduced.
 
-A:  All the things. Okay. Interesting. Are we meant to be doing this collaboratively?
+P3:  Yeah. So the dark band is depicted as Moscow and the coal ventern retreat. So this is for [the retreat](`laser_indexes=[0], current_vis="1920px-Minard_Update.png"`). This is the army. So that's the cold winter is depicted by the dark bank. So the number of armies that decrease as actually directly correlated to the temperature rise. Is that what this looks like? Because the temperature here is less and here is more and the armies here are more and there is less. I see having a. Yes, go ahead.
 
-B:  Yes.
+P4:  I guess I'm kind of confused about, like, as they're going back.
 
-A:  Got you. Okay, we've both seen this picture before.
+P3:  It doesn't.
 
-B:  Yes.
+P4:  Look like the red path is connected to these temperatures, but just like, the dark path here. So I wonder if it's actually more like, as the temperature is going down, the band site is thinning out.
 
-A:  And what's interesting here is it says that the events are tied black path back. But I do see some events tied to the red path as well.
+P3:  Oh, I was looking on the other side, like December to October. This makes more sense.
 
-B:  Like where at the very start, the.
+P4:  Yeah, I've kind of gone into it at first.
 
-A:  Cossacks pass the demon out of Caliph.
+P3:  [Yeah](`laser_indexes=[3], current_vis="1920px-Minard_Update.png"`). Okay so as the temperature increases. So what you're trying to say is as the temperature decreases, the army increases.
 
-B:  Like [this part](`laser_indexes=[0], current_vis="newYork.jpg"`)?
+P4:  I guess, but it just continues to decrease the size of the band.
 
-A:  Yeah, that part. That's the. Okay.
+P3:  Wait. Yeah. Wait. So the band width is the size of the army. How does [this](`laser_indexes=[4], current_vis="1920px-Minard_Update.png"`) make.
 
-B:  So that's the Russians. I'm not sure, but I don't know.
+P4:  Yeah, I think because in this line, the number of people present is represented by the width of [the colored stones](`laser_indexes=[5], current_vis="1920px-Minard_Update.png"`).
 
-A:  I'm now going [ahead](`laser_indexes=[2], current_vis="newYork.jpg"`) and reading the text. Do I need more historical information in my brain?
+P3:  Yeah. Um. Is there anything else that we're missing?
 
-B:  I mean, I think we can figure out some of what's going on, right? There's some major things, like where [the two armies meet up with each other](`laser_indexes=[3], current_vis="newYork.jpg"`) that divided.
+P4:  I guess other. Yeah, I guess the only other thing is it looks like they separated a lot. I think this means that they didn't all continue marching the same way. Other than that, I think that's pretty much it, yeah.
 
-A:  So I see a [division here](`laser_indexes=[4], current_vis="newYork.jpg"`) where someone goes off [force there](`laser_indexes=[5], current_vis="newYork.jpg"`).
+P3:  Should we go into the next one?
 
-B:  Yeah. What's interesting is I don't know how long [this part](`laser_indexes=[6], current_vis="newYork.jpg"`) took, but it seems to have taken just as long as [this entire part](`laser_indexes=[7,8], current_vis="newYork.jpg"`).
+P4:  Yeah.
 
-A:  Yeah. So [where did they go](`laser_indexes=[9], current_vis="newYork.jpg"`)? [Here](`laser_indexes=[10], current_vis="newYork.jpg"`). They had also [diminishing](`laser_indexes=[11], current_vis="newYork.jpg"`) numbers, probably similar to. Okay, interesting. So there's [numbers here](`laser_indexes=[12], current_vis="newYork.jpg"`).
+P3:  Okay.
 
-B:  Wait, that's a number. I thought that was [population count](`laser_indexes=[14], current_vis="newYork.jpg"`). Okay.
+P4:  Part two. Right.
 
-A:  Yeah. You need a 4k monitor.
+P3:  Okay.
 
-B:  Yeah, I don't have a very big monitor.
+P4:  So there are five maps showing different us cities as segregation conditions. Here, one dot represents 120 people. Different ethical. Different ethical group are colored in different colors. I think different ethnic groups are colored in different colors. Our task is, for each map, identify any patterns in how neighborhoods are segregated, compare different cities. What similarities and differences do we notice in the patterns of segregation and any other findings?
 
-A:  Okay, so [400,000 here](`laser_indexes=[15], current_vis="newYork.jpg"`). Where [75,000](`laser_indexes=[16], current_vis="newYork.jpg"`).
+P3:  One thing that I can see is, like, green is the white ethnicity, and that is very much largely populated in this area, which is the New York Bay area. I don't know what [this](`laser_indexes=[6], current_vis="newYork.jpg"`) is called.
 
-B:  I see.
+P4:  I feel like it might say Manhattan, maybe.
 
-A:  And over here, this branch [offset of 60,000](`laser_indexes=[17], current_vis="newYork.jpg"`), ends up with [33,000 here](`laser_indexes=[18], current_vis="newYork.jpg"`).
+P3:  And then this one, the one that is largely populated by black ethnicity.
 
-B:  Okay.
+P4:  Yeah, that's another big pocket. There's, like, very small but very dense [red pockets](`laser_indexes=[7], current_vis="newYork.jpg"`).
 
-A:  30,000 [here](`laser_indexes=[19], current_vis="newYork.jpg"`). When they're going to meet up again. At that point, it looks like they add with [the 20,000](`laser_indexes=[20], current_vis="newYork.jpg"`) to get to [the 50,000](`laser_indexes=[21], current_vis="newYork.jpg"`).
+P3:  So it kind of shows, like, all the asian people are. Tend to be in [the same community](`laser_indexes=[8], current_vis="newYork.jpg"`). Orange are his pallets?
 
-B:  Yeah. So are they just hanging out [here](`laser_indexes=[22], current_vis="newYork.jpg"`) for a while?
+P4:  Yeah, this one's interesting. I feel like there's a mix of [other dots](`laser_indexes=[11], current_vis="newYork.jpg"`) as well. Like a few greens, a few red.
 
-A:  Just hanging out [there](`laser_indexes=[22], current_vis="newYork.jpg"`) and not dying as much as [everybody else](`laser_indexes=[23], current_vis="newYork.jpg"`)?
+P3:  As well. It's like mix of everything.
 
-B:  I guess so.
+P4:  This is blue and orange. So a lot of [hispanic and black](`laser_indexes=[12], current_vis="newYork.jpg"`).
 
-A:  That's right. Okay. Was there actual incursions with russian forces during any of this, or is [this](`laser_indexes=[25], current_vis="newYork.jpg"`) just weather?
+P3:  Ethnic. Yeah.
 
-B:  Yeah, I don't know.
+P4:  I guess another thing is it's a lot sparser going from, I guess, inner city to the outside.
 
-A:  In order to better judge the eye on the [diminishion](`laser_indexes=[27], current_vis="newYork.jpg"`) of the army troops, which rover [Marshall devotee](`laser_indexes=[28], current_vis="newYork.jpg"`) who had been detached at Minsk.
+P3:  So these are like the skyscraper areas over here, whereas all the tech and all the big buildings are. This is like [the amenity area](`laser_indexes=[13], current_vis="newYork.jpg"`). What do you call [that area](`laser_indexes=[13], current_vis="newYork.jpg"`)? Like the people.
 
-B:  Okay, so this is a little bit of a lie. So the fact that [everybody starts together](`laser_indexes=[29], current_vis="newYork.jpg"`) is like a simplifying assumption.
+P4:  Probably more like [residential areas here](`laser_indexes=[14], current_vis="newYork.jpg"`).
 
-A:  I see. All right, so [the names here](`laser_indexes=[30], current_vis="newYork.jpg"`), [those](`laser_indexes=[31], current_vis="newYork.jpg"`) are like locations?
+P3:  Even though it's parse, we can see a lot of green dots.
 
-B:  I think so.
+P4:  Yeah.
 
-A:  And then [down here](`laser_indexes=[32], current_vis="newYork.jpg"`) we've got how darn cold it's getting.
+P3:  Interesting.
 
-B:  But only [on the way back](`laser_indexes=[33], current_vis="newYork.jpg"`).
+P4:  I guess I'm [circling this](`laser_indexes=[17], current_vis="newYork.jpg"`) because I'm assuming it's people that literally live in these areas. I guess this is technically still, like, residential areas. It's just maybe apartment buildings and complexes instead of just houses, perhaps.
 
-A:  Interesting. Right. But only on the way back. So they started recording it, but started showing at about [freezing level](`laser_indexes=[34], current_vis="newYork.jpg"`). Yeah, [10,000](`laser_indexes=[35], current_vis="newYork.jpg"`) make it back out of the [422,000](`laser_indexes=[36], current_vis="newYork.jpg"`) that started.
+P3:  Yeah. So I think there is, like, a dense population in the center of New York. And then [these are](`laser_indexes=[18], current_vis="newYork.jpg"`), like [the more household residential areas](`laser_indexes=[18], current_vis="newYork.jpg"`). Like small house of specific types like we see in [Utah](`laser_indexes=[19], current_vis="newYork.jpg"`). I don't know. Yeah, I guess.
 
-B:  Oh, that's so wrong.
+P4:  Do you want to try comparing the next.
 
-A:  Yeah. And they got to [Moscow](`laser_indexes=[37], current_vis="newYork.jpg"`) at 100,000. But of course, there was [this other horse](`laser_indexes=[38], current_vis="newYork.jpg"`) at 30,000. And the river crossings seem to be shown mostly at just [the return](`laser_indexes=[39], current_vis="newYork.jpg"`) except for [the Neiman](`laser_indexes=[40], current_vis="newYork.jpg"`).
+P3:  Yes.
 
-B:  And what's neat is you can see [the effect](`laser_indexes=[42], current_vis="newYork.jpg"`) of having to forward the river. How [there's a discontinuity](`laser_indexes=[43,44], current_vis="newYork.jpg"`).
+P4:  I'm looking at tripod.
 
-A:  We lose 4000 down to getting down to [20,000](`laser_indexes=[45], current_vis="newYork.jpg"`) [here](`laser_indexes=[46], current_vis="newYork.jpg"`). [Same with here](`laser_indexes=[47], current_vis="newYork.jpg"`). They go from [50,000 to 28,000](`laser_indexes=[48], current_vis="newYork.jpg"`).
+P3:  Yes.
 
-B:  But this one, there's [this discontinuity here](`laser_indexes=[49], current_vis="newYork.jpg"`). But it's like before the river.
+P4:  That's kind of interesting because there's a lot of very cut off, very straight cut off points.
 
-A:  Interesting. Maybe that's when they [waited](`laser_indexes=[51], current_vis="newYork.jpg"`) and thought that.
+P3:  Yeah, there's nothing over here in this specific area.
 
-B:  I mean, there is also a [discontinuity](`laser_indexes=[52], current_vis="newYork.jpg"`) [here](`laser_indexes=[53,54], current_vis="newYork.jpg"`). [Here](`laser_indexes=[55], current_vis="newYork.jpg"`). [Discretization](`laser_indexes=[56], current_vis="newYork.jpg"`) of the data as well.
+P4:  Might be a highway.
 
-A:  These do seem to be [inclining](`laser_indexes=[57,58], current_vis="newYork.jpg"`).
+P3:  Might be. But there are, like, in the middle. There are, like, small, small areas where are maybe these are, like, [more monumental places](`laser_indexes=[22], current_vis="Chicago.jpg"`).
 
-B:  But there's also these here, which strike me as polling because there are [no rivers here](`laser_indexes=[60], current_vis="newYork.jpg"`). But notice that they have the temperature [here](`laser_indexes=[61], current_vis="newYork.jpg"`) and [here](`laser_indexes=[62], current_vis="newYork.jpg"`). Until they knew.
+P4:  And it also looks like there's not a lot of mixing of the ethnic.
 
-A:  I didn't see where you were showing [the temperatures](`laser_indexes=[65], current_vis="newYork.jpg"`).
+P3:  Groups, the ones that I see over on this side.
 
-B:  This [temperature](`laser_indexes=[66], current_vis="newYork.jpg"`). See this one mine goes up [here](`laser_indexes=[67], current_vis="newYork.jpg"`) and there's a discontinuity right [here](`laser_indexes=[67], current_vis="newYork.jpg"`). Because I think he knows [the number](`laser_indexes=[68], current_vis="newYork.jpg"`) [somewhere](`laser_indexes=[69], current_vis="newYork.jpg"`) [over here](`laser_indexes=[70], current_vis="newYork.jpg"`). And he knows [the number](`laser_indexes=[68], current_vis="newYork.jpg"`) somewhere [over here](`laser_indexes=[69,70], current_vis="newYork.jpg"`). And then that creates [discontinuity](`laser_indexes=[70], current_vis="newYork.jpg"`).
+P4:  Yeah. I wonder what changes, I guess, past this point where it starts [mixing together](`laser_indexes=[24], current_vis="Chicago.jpg"`) a lot more.
 
-A:  Yeah, I see. I wonder if that is tied to when they have historical record of [the actual temperature](`laser_indexes=[71], current_vis="newYork.jpg"`).
+P3:  Level.
 
-B:  Well, it says it's based on [the diary of Jacob](`laser_indexes=[72], current_vis="newYork.jpg"`), the.
+P4:  Yeah. Looking at [the depth there](`laser_indexes=[25], current_vis="Chicago.jpg"`).
 
-A:  [Okay, I see.](`laser_indexes=[73], current_vis="newYork.jpg"`) So maybe like Jacob wrote down the temperatures on [those days](`laser_indexes=[73,74], current_vis="newYork.jpg"`). Yeah, and then the troop sizes [somewhere in the middle](`laser_indexes=[73,75,76], current_vis="newYork.jpg"`).
+P3:  Compared to the first one, we can see that the population for the red is very less.
 
-B:  No, I think they just [labeled](`laser_indexes=[73,78], current_vis="newYork.jpg"`) them like that. But I'm guessing on [these same dates](`laser_indexes=[79], current_vis="newYork.jpg"`) he guessed what [the](`laser_indexes=[80], current_vis="newYork.jpg"`).
+P4:  Yeah, that's also true. This is like [the main pocket](`laser_indexes=[26], current_vis="Chicago.jpg"`), I think.
 
-A:  Okay, that makes more sense.
+P3:  Should we go to the next one?
 
-B:  I also think the numbers are very.
+P4:  Yeah. Los Angeles. There's a lot of orange all around, which is.
 
-A:  Yeah, I got you. So it probably doesn't really matter.
+P3:  That of red. Like orange and red. Yeah. You can see the population of blue is, like, going down a lot. Significantly.
 
-B:  So maybe even though he doesn't report the temperature [here](`laser_indexes=[81], current_vis="newYork.jpg"`), he reports the troop count and the fact that they cross [the river Richmond](`laser_indexes=[82], current_vis="newYork.jpg"`).
+P4:  Yeah, I still mean south. [Yeah](`laser_indexes=[27], current_vis="LosA.jpg"`). Can see that, too. And then most of the green is [up here](`laser_indexes=[28], current_vis="LosA.jpg"`).
 
-A:  I didn't see your.
+P3:  Yeah. There's a distinct, like, line between yours. Orange, blue, red. And then there's green hover.
 
-B:  [Here](`laser_indexes=[82], current_vis="newYork.jpg"`).
+P4:  Yeah.
 
-A:  Okay, got you.
+P3:  [Line over here](`laser_indexes=[30], current_vis="LosA.jpg"`). What is in this area that. So many [red](`laser_indexes=[31], current_vis="LosA.jpg"`) and [orange dots](`laser_indexes=[32], current_vis="LosA.jpg"`).
 
-B:  So there's no temperature [here](`laser_indexes=[83], current_vis="newYork.jpg"`). So maybe he just reported that they [crossed the river](`laser_indexes=[84], current_vis="newYork.jpg"`).
+P4:  Yeah. That's kind of interesting. I don't know what's keeping. Why aren't they more mixed up? The distinction is we can see over.
 
-A:  [Yeah, I see.](`laser_indexes=[84], current_vis="newYork.jpg"`) Oh, interesting. So [those two troops](`laser_indexes=[84,85], current_vis="newYork.jpg"`), [30,000](`laser_indexes=[84], current_vis="newYork.jpg"`) [here](`laser_indexes=[86], current_vis="newYork.jpg"`), [100,000](`laser_indexes=[87], current_vis="newYork.jpg"`) from here, they're [down to 4000](`laser_indexes=[84], current_vis="newYork.jpg"`) [here](`laser_indexes=[88], current_vis="newYork.jpg"`). But they meet up with another 22,000 that come down as 6000 in [the very beginning](`laser_indexes=[84,89], current_vis="newYork.jpg"`).
+P3:  Here, it's like a big cluster of orange, but there's like sparse of dot, dot. You get [separate dots](`laser_indexes=[34], current_vis="LosA.jpg"`).
 
-B:  I think [these](`laser_indexes=[84], current_vis="newYork.jpg"`) must not be at [the same time](`laser_indexes=[90], current_vis="newYork.jpg"`). I think it's just [like](`laser_indexes=[84], current_vis="newYork.jpg"`), they can't eat due [time](`laser_indexes=[84], current_vis="newYork.jpg"`) on this, so they make it look like it's [the same amount](`laser_indexes=[84], current_vis="newYork.jpg"`).
+P4:  Yeah. This is kind of interesting. There's a lot of dismixing here.
 
-A:  [Okay.](`laser_indexes=[84], current_vis="newYork.jpg"`)
+P3:  Maybe that's a downtown, like [the media](`laser_indexes=[35], current_vis="LosA.jpg"`).
 
-B:  They're coming back to [the same time](`laser_indexes=[84], current_vis="newYork.jpg"`).
+P4:  Yeah, that makes sense.
 
-A:  The return trip seems to be [time based](`laser_indexes=[84], current_vis="newYork.jpg"`), though, [right](`laser_indexes=[91], current_vis="newYork.jpg"`)?
+P3:  There are also like an [empty pocket over on the side](`laser_indexes=[36], current_vis="LosA.jpg"`).
 
-B:  Right. But not [this offshoot](`laser_indexes=[92], current_vis="newYork.jpg"`) or [this offshoot](`laser_indexes=[92], current_vis="newYork.jpg"`).
+P4:  Yeah. I wonder what that is.
 
-A:  Yeah, [the black one](`laser_indexes=[93], current_vis="newYork.jpg"`).
+P3:  [Maybe](`laser_indexes=[37], current_vis="LosA.jpg"`) [that](`laser_indexes=[38], current_vis="LosA.jpg"`) would make sense.
 
-B:  Okay.
+P4:  Yeah.
 
-A:  Yeah. Who knows what they were doing [up here](`laser_indexes=[94], current_vis="newYork.jpg"`) having a commune. Anyway, we spent, like, ten minutes. How do we have time? All of them?
+P3:  Over here.
 
-B:  Yes, but the next few are not too bad.
+P4:  Yeah. Interesting. [Compared to the other ones](`laser_indexes=[40], current_vis="LosA.jpg"`), sometimes a lot more [orange](`laser_indexes=[40], current_vis="LosA.jpg"`). The past one. Should you do the next one?
 
-A:  Okay.
+P3:  Yes.
 
-B:  All right. Okay, part two. There are five maps showing different us cities segregation conditions. Here, one dot represents 120 people. Different ethical groups are colored in different colors. Your task, one for each map, identify any patterns in how neighborhoods are desegregated. Two, compare different cities. What similarities and differences do you notice in the patterns of the segregation? Discuss other findings. I think so this is a case where we can switch between the different cities.
+P4:  So Boston, that's a lot of green.
 
-A:  Oh, I see. Okay, so the five maps, these next five digitalization, are related to this construction.
+P3:  Yeah, a lot of green. A little bit of blue.
 
-B:  And we can always bug out early once there's enough data.
+P4:  Yeah.
 
-A:  Yeah. Okay.
+P3:  Not much orange. Like few.
 
-B:  All right.
+P4:  Yeah, just those two little bits. A little bit more [here](`laser_indexes=[41], current_vis="Boston.jpg"`).
 
-A:  All right. So first notices here is like, [Manhattan](`laser_indexes=[95], current_vis="newYork.jpg"`) seems to have a lot of population.
+P3:  Oh, yeah. That looks like red to me, though.
 
-B:  It's very dense. And then Central park. Nobody lives in [Central park](`laser_indexes=[96], current_vis="newYork.jpg"`) according to this data.
+P4:  So you're staying here?
 
-A:  [That makes sense](`laser_indexes=[97], current_vis="newYork.jpg"`).
+P3:  Yes. Highly densely populated in [this area](`laser_indexes=[43], current_vis="Boston.jpg"`). Mostly. Invite the queen.
 
-B:  [I don't think that's actually true.](`laser_indexes=[97], current_vis="newYork.jpg"`) [Each dot represents](`laser_indexes=[97], current_vis="newYork.jpg"`), like, [100 people](`laser_indexes=[97], current_vis="newYork.jpg"`). [Does it say that?](`laser_indexes=[97], current_vis="newYork.jpg"`) [I can't actually](`laser_indexes=[97], current_vis="newYork.jpg"`).
+P4:  It's kind of quick how it goes from pretty dense to very [sparse](`laser_indexes=[44], current_vis="Boston.jpg"`).
 
-A:  [Can you zoom in](`laser_indexes=[99], current_vis="newYork.jpg"`)?
+P3:  Yes, it's like [gradually increasing](`laser_indexes=[45], current_vis="Boston.jpg"`) from heavily more.
 
-B:  This, like, [control](`laser_indexes=[99], current_vis="newYork.jpg"`).
+P4:  [Sorry.](`laser_indexes=[47], current_vis="Boston.jpg"`)
 
-A:  [Okay.](`laser_indexes=[99], current_vis="newYork.jpg"`)
+P3:  You can go ahead.
 
-B:  There are other places that are [missing population](`laser_indexes=[99], current_vis="newYork.jpg"`), like [this thing](`laser_indexes=[99], current_vis="newYork.jpg"`), and I don't know whether [that's](`laser_indexes=[99], current_vis="newYork.jpg"`).
+P4:  Sorry. I was going to say it's pretty consistent that it's just like [green](`laser_indexes=[48], current_vis="Boston.jpg"`) and then all the dogs separated.
 
-A:  Unfortunately, your pointer color is very light colored, [very light cyan](`laser_indexes=[101], current_vis="newYork.jpg"`). So I cannot [see it](`laser_indexes=[101], current_vis="newYork.jpg"`) at all.
+P3:  Yeah, there's a whole lot of bunch of [blues over in here](`laser_indexes=[49,50], current_vis="Boston.jpg"`) and then not any other. You can see reds over here. [Over here](`laser_indexes=[49], current_vis="Boston.jpg"`) and then like, [over here](`laser_indexes=[50], current_vis="Boston.jpg"`).
 
-B:  [Okay](`laser_indexes=[101], current_vis="newYork.jpg"`). Do you want me to. How does [this](`laser_indexes=[101], current_vis="newYork.jpg"`) look?
+P4:  [Yeah](`laser_indexes=[52], current_vis="Boston.jpg"`).
 
-A:  Oh, hey, how did you make it [thicker](`laser_indexes=[101], current_vis="newYork.jpg"`)?
+P3:  There'S [a lot of](`laser_indexes=[53], current_vis="Boston.jpg"`).
 
-B:  I'm using [the pen](`laser_indexes=[101], current_vis="newYork.jpg"`).
+P4:  Also just like pockets of empty. No people, which makes sense, I guess there's just a lot of water around.
 
-A:  [Nice](`laser_indexes=[101], current_vis="newYork.jpg"`).
+P3:  The one thing that I notice is like, if there's a water body and that. Exactly. The being gets highly densely populated. For example, in this part. This is highly densely populated over here. Probably [the main being downtown area](`laser_indexes=[54], current_vis="Boston.jpg"`) I can think of. [Interesting](`laser_indexes=[56], current_vis="Boston.jpg"`). Do we have any more?
 
-B:  Okay. [This area](`laser_indexes=[101], current_vis="newYork.jpg"`), I don't think that's [a park](`laser_indexes=[101], current_vis="newYork.jpg"`), but it might be an [industrial zone](`laser_indexes=[101], current_vis="newYork.jpg"`). It's [an idea](`laser_indexes=[101], current_vis="newYork.jpg"`).
+P4:  I think that might be the last one for the cities. No. Do we want to look at the next one?
 
-A:  [Yeah, that makes sense.](`laser_indexes=[101], current_vis="newYork.jpg"`) Okay. There does seem to be a lot of [stratification for ethnic groups](`laser_indexes=[101], current_vis="newYork.jpg"`), [except for](`laser_indexes=[101], current_vis="newYork.jpg"`), [like](`laser_indexes=[102], current_vis="newYork.jpg"`), in [Jersey City](`laser_indexes=[101,102], current_vis="newYork.jpg"`), there's [a couple](`laser_indexes=[101], current_vis="newYork.jpg"`) with [a few mixings](`laser_indexes=[103], current_vis="newYork.jpg"`), but getting kind of the sense that it might be hard to tell from [the colors](`laser_indexes=[101,104,105,106,107,108], current_vis="newYork.jpg"`). It seems like there's more [stratification](`laser_indexes=[101], current_vis="newYork.jpg"`) between [black ethnic group](`laser_indexes=[106], current_vis="newYork.jpg"`) and everybody else. But it might be that it's hard to distinguish [blue](`laser_indexes=[101,106], current_vis="newYork.jpg"`) from [green](`laser_indexes=[107,108], current_vis="newYork.jpg"`).
+P3:  Yeah, sure. Okay.
 
-B:  I think [the blue and the green](`laser_indexes=[101], current_vis="newYork.jpg"`) look pretty different, except, like, I guess [over here](`laser_indexes=[101,109], current_vis="newYork.jpg"`) you can see there's, like, a bunch of green in the middle of [this blue area](`laser_indexes=[101], current_vis="newYork.jpg"`).
+P4:  Actually, I guess. Did you have any other thoughts about among all of the maps, any significant comparisons?
 
-A:  Interesting. I can't read what it [says](`laser_indexes=[101], current_vis="newYork.jpg"`), though. Even on [my monitor](`laser_indexes=[101], current_vis="newYork.jpg"`).
+P3:  I can see that this one is very populated. Each and every other maps. You can see that there are sparse areas around. I was talking about the cities. Sorry. Yeah, I was talking about the New York one. You can see even if from this specific, from the small map itself, we can see that the New York one is like. We can see the color very clearly [green blotch](`laser_indexes=[57], current_vis="SeasonalTemp.jpg"`) rather than the other cities, whereas even though it is [highly populated](`laser_indexes=[58], current_vis="newYork.jpg"`), but more spread out like this. Reason populated. We have like a [big green lot](`laser_indexes=[59], current_vis="TUS.jpg"`) [over here](`laser_indexes=[60], current_vis="TUS.jpg"`). New blotch [over here](`laser_indexes=[60], current_vis="newYork.jpg"`). Red one over here. One thing I should [I populated](`laser_indexes=[62,63], current_vis="newYork.jpg"`).
 
-B:  I'm not too familiar with [New York](`laser_indexes=[101], current_vis="newYork.jpg"`). You want to try [different cities](`laser_indexes=[101], current_vis="newYork.jpg"`)?
+P4:  Yeah. Because this was just a lot more density. The over map.
 
-A:  [Yep.](`laser_indexes=[101], current_vis="newYork.jpg"`)
+P3:  Should we go to something else?
 
-B:  All right, so [the next one](`laser_indexes=[101], current_vis="newYork.jpg"`) is Chicago, which I'm also not very familiar with.
+P4:  Yeah, I guess part three is meant.
 
-A:  [A very sharp divide](`laser_indexes=[101], current_vis="newYork.jpg"`), [north](`laser_indexes=[101], current_vis="newYork.jpg"`) [south](`laser_indexes=[110], current_vis="Chicago.jpg"`) shorelines.
+P3:  Can you analyze the long term trends and global temperature and climate change, discuss what you find from the graph, move to the next one once you finished.
 
-B:  What is [that shoreline](`laser_indexes=[101,111], current_vis="Chicago.jpg"`)? Yeah, this is [the lake](`laser_indexes=[101], current_vis="Chicago.jpg"`) [here](`laser_indexes=[112], current_vis="Chicago.jpg"`), sort of [river](`laser_indexes=[112], current_vis="Chicago.jpg"`).
+P4:  Sorry. Trying to figure out how to click around. And now it's on the way. Okay, now I'm there.
 
-A:  This is [the big lake](`laser_indexes=[112], current_vis="Chicago.jpg"`).
+P3:  So we are on the temperature cycle. So the colors, like the gradient, represents the number increasing years. So 1880 to 2020, which is [a black line](`laser_indexes=[64], current_vis="SeasonalTemp.jpg"`) where we can see clearly that the temperature has [risen significantly](`laser_indexes=[65], current_vis="Boston.jpg"`) [decreasing years](`laser_indexes=[66], current_vis="SeasonalTemp.jpg"`).
 
-B:  Okay, so you're saying [right here](`laser_indexes=[113], current_vis="Chicago.jpg"`) is where there's a [north south divide](`laser_indexes=[114], current_vis="Chicago.jpg"`), but then there's [also](`laser_indexes=[114,115], current_vis="Chicago.jpg"`), like, [this area](`laser_indexes=[115], current_vis="Chicago.jpg"`) and [this area](`laser_indexes=[116], current_vis="Chicago.jpg"`) I can't see.
+P4:  I'm kind of confused [what](`laser_indexes=[67], current_vis="Boston.jpg"`) the. I guess the slope of [these lines](`laser_indexes=[68], current_vis="SeasonalTemp.jpg"`).
 
-A:  Again. Can I see [your pointer](`laser_indexes=[117], current_vis="Chicago.jpg"`)? Can you draw [the lake](`laser_indexes=[117], current_vis="Chicago.jpg"`) so I can see your pen?
+P3:  Are supposed to be. I kind of think, like, this is the January, February, March. Like, this would be [the summer part](`laser_indexes=[69,70,71], current_vis="Chicago.jpg"`). That would make sense. Like from [January](`laser_indexes=[70], current_vis="LosA.jpg"`) it's going on. Then it gets [spring over here](`laser_indexes=[71], current_vis="Boston.jpg"`) and then winter, which is the. Oh, no, I think I did. Yeah. So this would be [the summer](`laser_indexes=[69,70,71], current_vis="SLC.jpg"`). Summer, then winter. Okay.
 
-B:  All right, [here's my](`laser_indexes=[117], current_vis="Chicago.jpg"`).
+P4:  Yeah, I guess. I tried zooming out a bunch, but I think the axes might just be.
 
-A:  Probably because you're [drawing on your screen](`laser_indexes=[117], current_vis="Chicago.jpg"`).
+P3:  Cut off for me a bit. I do not have the x axis as well. I just assumed it should be like that because the worst temperature, which is minus two degree, and then this would be the minus plus two celsius.
 
-B:  What do you mean [drawing on my screen](`laser_indexes=[117], current_vis="Chicago.jpg"`)?
+P4:  Okay, that makes sense. So I think the entire line is like the course of a single year.
 
-A:  How is your pen [changing thickness](`laser_indexes=[118], current_vis="Chicago.jpg"`)? Just.
+P3:  Yeah.
 
-B:  I'm [pressing](`laser_indexes=[118], current_vis="Chicago.jpg"`) with the mouse more.
+P4:  Okay.
 
-A:  Do that. I guess it changes thickness when I go [slow](`laser_indexes=[118], current_vis="Chicago.jpg"`). [Okay](`laser_indexes=[118], current_vis="Chicago.jpg"`). If I go slow, then I get a [slow pen movement](`laser_indexes=[118], current_vis="Chicago.jpg"`). But now I can't see your [pointer](`laser_indexes=[118], current_vis="Chicago.jpg"`) or [pen](`laser_indexes=[118], current_vis="Chicago.jpg"`) at all.
+P3:  Well, I think that I can see the temperature is rising every year.
 
-B:  I'm not [pressing down](`laser_indexes=[118], current_vis="Chicago.jpg"`) or anything.
+P4:  [Yeah](`laser_indexes=[72], current_vis="TUS.jpg"`). And it seems to be [pretty consistent](`laser_indexes=[73], current_vis="SeasonalTemp.jpg"`). Like, there's no [anomalies during the years](`laser_indexes=[73], current_vis="LosA.jpg"`). They all make the same giant shapes.
 
-A:  [Okay.](`laser_indexes=[118], current_vis="Chicago.jpg"`)
+P3:  And then. I don't know, with this, there's very less overlapping between them. So not every two years, like five years, has had the same temperature. Maybe there's like a [distinct](`laser_indexes=[74], current_vis="SeasonalTemp.jpg"`) [threats](`laser_indexes=[75], current_vis="SeasonalTemp.jpg"`) we can [see](`laser_indexes=[76], current_vis="SeasonalTemp.jpg"`).
 
-B:  [Can you draw?](`laser_indexes=[118], current_vis="Chicago.jpg"`) [Here](`laser_indexes=[118], current_vis="Chicago.jpg"`)'s my pointer.
+P4:  Yeah, I guess. I can't tell if this jump in, like, the gradient from this orange to this more pink color is like just a drastic change in temperature or in time. It's kind of hard to tell true.
 
-A:  [Okay.](`laser_indexes=[118], current_vis="Chicago.jpg"`) Yeah. It's very thin and [light green colored](`laser_indexes=[118], current_vis="Chicago.jpg"`).
+P3:  If you think that the orange is somewhere in the middle and then that's starting to get red or, like, [darker over here](`laser_indexes=[78], current_vis="SeasonalTemp.jpg"`) and then getting [more hotter](`laser_indexes=[79], current_vis="SeasonalTemp.jpg"`). Let's say [it's](`laser_indexes=[80,81,82,83], current_vis="SeasonalTemp.jpg"`). That's all I can see from [this curve](`laser_indexes=[84], current_vis="SeasonalTemp.jpg"`). Do we want to go to [another one](`laser_indexes=[85], current_vis="SeasonalTemp.jpg"`)?
 
-B:  Okay, so [light green](`laser_indexes=[118], current_vis="Chicago.jpg"`) is a bad color is what you're telling me.
+P4:  Yeah, let's do that.
 
-A:  [Yeah](`laser_indexes=[119], current_vis="Chicago.jpg"`). So interestingly, when I use [the laser pointer](`laser_indexes=[119,120], current_vis="Chicago.jpg"`), I get a [nice blue](`laser_indexes=[119], current_vis="Chicago.jpg"`) that's [very dark](`laser_indexes=[120], current_vis="Chicago.jpg"`).
+P3:  Okay.
 
-B:  So do I on [mine](`laser_indexes=[119], current_vis="Chicago.jpg"`).
+P4:  So part three, can you analyze any long term trends in global temperatures and climate change? Discuss what you find from the graphs, move to the next one once you're finished.
 
-A:  Okay. And [then when I see yours](`laser_indexes=[119], current_vis="Chicago.jpg"`), it looks like [this green color](`laser_indexes=[119], current_vis="Chicago.jpg"`), which is [the color of the pen](`laser_indexes=[119], current_vis="Chicago.jpg"`), makes up [very](`laser_indexes=[119], current_vis="Chicago.jpg"`).
+P3:  Number of stones that we're getting. Is this what it's saying? Number of storms?
 
-B:  [Yeah](`laser_indexes=[119], current_vis="Chicago.jpg"`).
+P4:  Yeah, I guess the [number of these specific types of storms](`laser_indexes=[86], current_vis="Storms.jpg"`). I guess there's [three different categories](`laser_indexes=[86,87], current_vis="Storms.jpg"`) for them.
 
-A:  I see. So I should use [the pen](`laser_indexes=[119], current_vis="Chicago.jpg"`) as well.
+P3:  Okay. Yeah. One thing is different with the coming years, we are getting more of the [get warrant category five](`laser_indexes=[88], current_vis="Storms.jpg"`) and [then](`laser_indexes=[89], current_vis="Storms.jpg"`). Yeah. So like total number is also getting higher.
 
-B:  [I'm. Okay.](`laser_indexes=[119], current_vis="Chicago.jpg"`)
+P4:  Yeah.
 
-A:  [Circling](`laser_indexes=[119], current_vis="Chicago.jpg"`) a lot helps. [Yeah](`laser_indexes=[121], current_vis="Chicago.jpg"`).
+P3:  I can see that.
 
-B:  Okay. Because it's [nowhere to look](`laser_indexes=[119], current_vis="Chicago.jpg"`). [Okay](`laser_indexes=[119], current_vis="Chicago.jpg"`). Anyway, let's [look at the next one](`laser_indexes=[119,122], current_vis="Chicago.jpg"`).
+P4:  And I was going to say like I wonder why. The cat threes have been pretty consistent, not rising too much, but I guess those storms have just advanced to be more intense ones.
 
-A:  [All right.](`laser_indexes=[119], current_vis="Chicago.jpg"`)
+P3:  Yeah. Also we have about euro, we have [minimum of the least amount of storms](`laser_indexes=[91], current_vis="Storms.jpg"`) we have ever bought strengthen. I think [the category four](`laser_indexes=[95], current_vis="Storms.jpg"`) is the most that we have got it from. Like category three is, [as you said](`laser_indexes=[95], current_vis="Storms.jpg"`), as [the consistent one](`laser_indexes=[95], current_vis="Storms.jpg"`), category four is [the most one](`laser_indexes=[95], current_vis="Storms.jpg"`) and category five is. So I guess the strongs are getting stronger to become a category four but not strong enough to become a category five.
 
-B:  [Los Angeles](`laser_indexes=[119], current_vis="Chicago.jpg"`).
+P4:  Yeah, I feel like as time passes we'll see if it will end up being where [this category three and four and then cat five starts to go to faster rate](`laser_indexes=[96], current_vis="Storms.jpg"`) or if it'll like plateau.
 
-A:  Yeah, we know of [that place](`laser_indexes=[119], current_vis="Chicago.jpg"`). Oh, [look](`laser_indexes=[119], current_vis="Chicago.jpg"`), there's a lot of Hispanics in [Los Angeles](`laser_indexes=[123], current_vis="LosA.jpg"`). It's also reasonably [segregated](`laser_indexes=[119], current_vis="LosA.jpg"`), [so I believe](`laser_indexes=[119,125], current_vis="LosA.jpg"`).
+P3:  Yes.
 
-B:  This is [Monterey park](`laser_indexes=[119], current_vis="LosA.jpg"`).
+P4:  That was like to be bad.
 
-A:  Which one can you [circle a lot](`laser_indexes=[119], current_vis="LosA.jpg"`)?
+P3:  Here's like [stagnant rise](`laser_indexes=[97], current_vis="Storms.jpg"`) and then [stagnant](`laser_indexes=[98], current_vis="Storms.jpg"`) and then I think there will again be a rise, but I'm guessing [go from the trench](`laser_indexes=[99], current_vis="Storms.jpg"`). [Yeah, hopefully not.](`laser_indexes=[100], current_vis="Storms.jpg"`) Hopefully not. Should we end the. Yeah, sure. Can you analyze any long term trends in the global temperature and climate change? Discuss what you find from the graph, move on to the next one once you finish.
 
-B:  I'm [circling a](`laser_indexes=[119], current_vis="LosA.jpg"`). Oh, I just can't.
+P4:  Okay.
 
-A:  [See it](`laser_indexes=[127], current_vis="LosA.jpg"`) at all. I guess I make my [monitor](`laser_indexes=[127], current_vis="LosA.jpg"`), my [screen bigger](`laser_indexes=[127], current_vis="LosA.jpg"`).
+P3:  Yeah. So this is like fire hotspot. So basically the temperature rise in three different countries. Okay. It's not really the same country.
 
-B:  [All right, dear.](`laser_indexes=[127], current_vis="LosA.jpg"`) [Here](`laser_indexes=[127], current_vis="LosA.jpg"`), I'm trying with the pen.
+P4:  I guess it's fire activity in the countries.
 
-A:  Okay. Now I see [south Texas down to East Los Angeles](`laser_indexes=[127], current_vis="LosA.jpg"`). Yeah. [Monterey Park](`laser_indexes=[127], current_vis="LosA.jpg"`). [I see it](`laser_indexes=[127], current_vis="LosA.jpg"`). [Yes, that makes sense.](`laser_indexes=[127], current_vis="LosA.jpg"`)
+P3:  [Oh, yeah.](`laser_indexes=[101], current_vis="FIrehotspot.jpg"`)
 
-B:  [Yeah](`laser_indexes=[127], current_vis="LosA.jpg"`).
+P4:  So maybe [hot areas](`laser_indexes=[102], current_vis="FIrehotspot.jpg"`) where it's a lot that fires can start.
 
-A:  But still, [San Gabriel](`laser_indexes=[127], current_vis="LosA.jpg"`), that matches [what they expect](`laser_indexes=[127], current_vis="LosA.jpg"`). Alhambra is probably [there](`laser_indexes=[127], current_vis="LosA.jpg"`) as well. Yeah. Just [above Monterey Park](`laser_indexes=[127], current_vis="LosA.jpg"`).
+P3:  I was assuming it to be more of like the wildfires that we get in the forest or stuff like that.
 
-B:  [Pasadena](`laser_indexes=[127], current_vis="LosA.jpg"`) is [surprisingly mixed](`laser_indexes=[128], current_vis="LosA.jpg"`).
+P4:  Okay, I see. So maybe not like it gets temporarily, like the temperature gets hot, but it's like its highest risk for fired.
 
-A:  [Yeah](`laser_indexes=[129], current_vis="LosA.jpg"`). Mixed for [asian](`laser_indexes=[130], current_vis="LosA.jpg"`), [Hispanic](`laser_indexes=[129], current_vis="LosA.jpg"`) and [white](`laser_indexes=[130], current_vis="LosA.jpg"`).
-
-B:  [Yes](`laser_indexes=[129,130], current_vis="LosA.jpg"`).
-
-A:  [As you would expect](`laser_indexes=[129], current_vis="LosA.jpg"`). At least that matches my experience [there](`laser_indexes=[129], current_vis="LosA.jpg"`). [Okay](`laser_indexes=[129], current_vis="LosA.jpg"`). All right. I'm noticing [city centers are dense](`laser_indexes=[129], current_vis="LosA.jpg"`). [Dense](`laser_indexes=[129], current_vis="LosA.jpg"`), right. And dense. And usually [less segregated](`laser_indexes=[129], current_vis="LosA.jpg"`).
-
-B:  I'm having trouble [seeing what's going on](`laser_indexes=[129], current_vis="LosA.jpg"`).
-
-A:  [Over here](`laser_indexes=[129], current_vis="LosA.jpg"`), I'm [seeing](`laser_indexes=[131], current_vis="LosA.jpg"`), like, [green](`laser_indexes=[129], current_vis="LosA.jpg"`), [red](`laser_indexes=[131], current_vis="LosA.jpg"`).
-
-B:  [Okay.](`laser_indexes=[129,131], current_vis="LosA.jpg"`)
-
-A:  [Orange](`laser_indexes=[131], current_vis="LosA.jpg"`), blue.
-
-B:  [Yeah](`laser_indexes=[131], current_vis="LosA.jpg"`).
-
-A:  [Pretty much everything](`laser_indexes=[131], current_vis="LosA.jpg"`), even.
-
-B:  So is [that](`laser_indexes=[131], current_vis="LosA.jpg"`) true for the other ones? Let's [look at Chicago again](`laser_indexes=[131], current_vis="LosA.jpg"`).
-
-A:  [Yeah](`laser_indexes=[131], current_vis="LosA.jpg"`).
-
-B:  Oh, it's not letting me [change](`laser_indexes=[131], current_vis="LosA.jpg"`) anymore.
-
-A:  I [click on it](`laser_indexes=[131], current_vis="LosA.jpg"`), and it's not changing. Interesting.
-
-B:  Oh, [there it goes](`laser_indexes=[132], current_vis="LosA.jpg"`). Now I'm on [New York](`laser_indexes=[132], current_vis="LosA.jpg"`) again. I don't know what [the city center](`laser_indexes=[132], current_vis="LosA.jpg"`) of is. I mean, I guess there's [this area up here](`laser_indexes=[132], current_vis="LosA.jpg"`), like, north of Manhattan.
-
-A:  Is it [the Upper east side](`laser_indexes=[133], current_vis="newYork.jpg"`)?
-
-B:  I don't know anything about [New York](`laser_indexes=[133], current_vis="newYork.jpg"`). [Let's go back](`laser_indexes=[133], current_vis="newYork.jpg"`). [The city center](`laser_indexes=[133], current_vis="newYork.jpg"`). I don't know what [the city center in Chicago](`laser_indexes=[133], current_vis="newYork.jpg"`) is, but it's really dense right here along the.
-
-A:  Yeah, yeah. Okay. And I see that there is where there's also [lack of segregation](`laser_indexes=[134], current_vis="Chicago.jpg"`).
-
-B:  But then [all the way up here](`laser_indexes=[135], current_vis="Chicago.jpg"`), there's a little.
-
-A:  Yeah.
-
-B:  What other cities do we.
-
-A:  Interesting. It's not changing for me again.
-
-B:  Me neither. I guess we just have to wait. There you go.
-
-A:  Boston might just take a while to load.
-
-B:  Yeah.
-
-A:  Boston looks similar in terms of density, is showing less segregation.
-
-B:  I feel like this is very zoomed out. Maybe I don't know enough about Boston. I mean, I guess it's got [this entire bay thing](`laser_indexes=[137], current_vis="Boston.jpg"`) going on.
-
-A:  [Yeah](`laser_indexes=[138], current_vis="Boston.jpg"`).
-
-B:  All right. And then what else do we. [City](`laser_indexes=[138], current_vis="Boston.jpg"`).
-
-A:  Well, hello. [That matches my expectation as well](`laser_indexes=[138], current_vis="Boston.jpg"`). All right.
-
-B:  What's interesting is how dense it is by the university. I guess it's because this is a [very zoomed out map](`laser_indexes=[140], current_vis="SLC.jpg"`). So [this here](`laser_indexes=[139], current_vis="SLC.jpg"`) is [the university](`laser_indexes=[140], current_vis="SLC.jpg"`).
-
-A:  I know where the university is. [Westbritter](`laser_indexes=[140], current_vis="SLC.jpg"`) is.
-
-B:  Okay. And then right around [the university](`laser_indexes=[140], current_vis="SLC.jpg"`) is downtown. So that's where it gets [very dense](`laser_indexes=[140], current_vis="SLC.jpg"`). But then there's [this dividing line](`laser_indexes=[140], current_vis="SLC.jpg"`) between down. [Is that](`laser_indexes=[141], current_vis="SLC.jpg"`) [the river](`laser_indexes=[143], current_vis="SLC.jpg"`)? Okay. Then on [the west side](`laser_indexes=[142], current_vis="SLC.jpg"`) of [the river](`laser_indexes=[143], current_vis="SLC.jpg"`), there's [a little bit more](`laser_indexes=[142,143,144], current_vis="SLC.jpg"`). A [little less](`laser_indexes=[143], current_vis="SLC.jpg"`) [segregation](`laser_indexes=[145], current_vis="SLC.jpg"`).
-
-A:  [There](`laser_indexes=[143,145], current_vis="SLC.jpg"`) you go. Yeah. And then [west of that](`laser_indexes=[143,146], current_vis="SLC.jpg"`), of course, we got [the airport](`laser_indexes=[143], current_vis="SLC.jpg"`) and [the industrial area](`laser_indexes=[147], current_vis="SLC.jpg"`).
-
-B:  [Mines](`laser_indexes=[143], current_vis="SLC.jpg"`). Yeah. Maybe [this one](`laser_indexes=[143], current_vis="SLC.jpg"`) should be zoomed in more as well.
-
-A:  It's kind of nice to have pretty much all of [the metropolitan area](`laser_indexes=[143,148], current_vis="SLC.jpg"`) that we're getting down.
-
-B:  People would know [that](`laser_indexes=[143,149], current_vis="SLC.jpg"`). Where is [Provo](`laser_indexes=[143], current_vis="SLC.jpg"`) on [this map](`laser_indexes=[150], current_vis="SLC.jpg"`)? I think this is [Provo](`laser_indexes=[143], current_vis="SLC.jpg"`). Or is that too [far north](`laser_indexes=[152], current_vis="SLC.jpg"`), [south](`laser_indexes=[153], current_vis="SLC.jpg"`).
-
-A:  [Over behind](`laser_indexes=[152], current_vis="SLC.jpg"`). [South of the map](`laser_indexes=[154], current_vis="SLC.jpg"`). [Yeah](`laser_indexes=[155], current_vis="SLC.jpg"`).
-
-B:  [Okay.](`laser_indexes=[155], current_vis="SLC.jpg"`)
-
-A:  And [octane](`laser_indexes=[155,156], current_vis="SLC.jpg"`) is.
-
-B:  Then I think [the last map](`laser_indexes=[155], current_vis="SLC.jpg"`) is.
-
-A:  Is [that](`laser_indexes=[155], current_vis="SLC.jpg"`) related? Should be [a 6th map](`laser_indexes=[155], current_vis="SLC.jpg"`).
-
-B:  [Yeah, that's confusing.](`laser_indexes=[155], current_vis="SLC.jpg"`) But [let's see](`laser_indexes=[155], current_vis="SLC.jpg"`).
-
-A:  [Updating it](`laser_indexes=[155], current_vis="SLC.jpg"`).
-
-B:  I know [this is not updating](`laser_indexes=[155], current_vis="SLC.jpg"`) for me either.
-
-A:  [Here](`laser_indexes=[155], current_vis="SLC.jpg"`), one dot is 200 people on the Salt Lake city.
-
-B:  Oh, because of [the Zoom changes](`laser_indexes=[155], current_vis="SLC.jpg"`).
-
-A:  [Yeah](`laser_indexes=[155], current_vis="SLC.jpg"`). So it doesn't match the instructions.
-
-B:  [Yeah](`laser_indexes=[155], current_vis="SLC.jpg"`).
-
-A:  Not that that probably matters too much for interpreting [differences across cities](`laser_indexes=[155], current_vis="SLC.jpg"`).
-
-B:  [There](`laser_indexes=[155], current_vis="SLC.jpg"`) you.
-
-A:  Ah, it's [the US map](`laser_indexes=[155], current_vis="SLC.jpg"`). [Here](`laser_indexes=[155], current_vis="SLC.jpg"`) you can also see where the population centers are.
-
-B:  It's [a population](`laser_indexes=[155], current_vis="SLC.jpg"`).
-
-A:  Yep. Except that you can see like [different](`laser_indexes=[155], current_vis="SLC.jpg"`).
-
-B:  It's literally [a population](`laser_indexes=[155], current_vis="SLC.jpg"`).
-
-A:  Sure. But with [ethnic division or indications](`laser_indexes=[155], current_vis="SLC.jpg"`), I should say a lot of [central area](`laser_indexes=[155], current_vis="SLC.jpg"`) looks very white.
-
-B:  Are you using your [point finger](`laser_indexes=[155], current_vis="SLC.jpg"`) at all?
-
-A:  [Nope.](`laser_indexes=[155], current_vis="SLC.jpg"`)
-
-B:  The point is to use [the pointer](`laser_indexes=[155], current_vis="SLC.jpg"`).
-
-A:  Okay. [Here](`laser_indexes=[155], current_vis="SLC.jpg"`) in the center of the US.
-
-B:  There'S nothing in [the center](`laser_indexes=[155,157], current_vis="SLC.jpg"`) of the.
-
-A:  [Okay](`laser_indexes=[155], current_vis="SLC.jpg"`). [Okay](`laser_indexes=[157], current_vis="TUS.jpg"`). So [here](`laser_indexes=[155], current_vis="newYork.jpg"`) on the midwest there's a preponderance of white only. [Yes](`laser_indexes=[157], current_vis="newYork.jpg"`).
-
-B:  I can't see [your cursor](`laser_indexes=[155,158], current_vis="newYork.jpg"`) at all.
-
-A:  Because it matches [the color of the map](`laser_indexes=[155], current_vis="newYork.jpg"`). Here, I'll draw [here](`laser_indexes=[155], current_vis="newYork.jpg"`) in this sort of area.
-
-B:  Okay, wait, [exclude all the population](`laser_indexes=[155], current_vis="newYork.jpg"`). This [area](`laser_indexes=[155], current_vis="newYork.jpg"`) is not the midwest. This is [the](`laser_indexes=[159], current_vis="newYork.jpg"`).
-
-A:  Oh yeah, you're from [Midwest](`laser_indexes=[159], current_vis="newYork.jpg"`). But then I guess that's not exactly true because [any population center](`laser_indexes=[159], current_vis="newYork.jpg"`) has a bit more.
-
-B:  Plus I think you can notice that [the south is more blue](`laser_indexes=[159], current_vis="newYork.jpg"`).
-
-A:  Oh yeah, check that out.
-
-B:  That took a while to update. Yeah, like all of your circling of the little cities just popped out all of a sudden.
-
-A:  Oh, interesting. So there's some language. Yeah, I should erase them all because I've littered them out. What does the pointer do? Can you move things? I'm just curious now, getting distracted. Okay, so I get the move icon. When I put the pointer icon over the circle that I just drew it. Okay. Try to drag it. Doesn't do anything. Now I saw that we have some problems. Okay, so now we can stop recording and do a second session. I think maybe the recording gets too much.
-
-B:  Okay, so I'm going to click record and stop recording.
+P3:  Because how would NASA know where the fire, like a building is going to get a fire? Russia has the highest one. Hello.
 

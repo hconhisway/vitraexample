@@ -38,7 +38,9 @@ export default class DrawElements extends DependentElement {
     // const responseTrail = await axios.get("https://raw.githubusercontent.com/hconhisway/moviz-client/oldVersion/static/mergedLaser.json");
     const responseTrail = await fetch("../assets/mergedLaser.json");
     const dataTrail = await responseTrail.json();
+    console.log(dataTrail);
     this.trailsData = dataTrail.trails_block; // Assuming the JSON structure
+    console.log(this.trailsData);
   }
 
   async loadImageData() {

@@ -1,6 +1,6 @@
 /* Redefine right margin width to accommodate figure */
 :root {
-  --margin-width: 1000px;
+  --margin-width: 750px;
 }
 
 /* Ensure spacing between page top and figure */

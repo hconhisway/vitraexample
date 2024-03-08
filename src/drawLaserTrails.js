@@ -1,7 +1,7 @@
 export default function (d3, dom, trailsData, switchingHistory) {
     const screenHeight = window.innerHeight;
     const svgHeight = screenHeight;
-    const svgWidth = 900
+    const svgWidth = 650
     let aspectRatioSum = 0.0;
     let widthOfCurrentSelectedImage = 0;
     let heightOfCurrentSelectedImage = 0;
@@ -150,14 +150,27 @@ export default function (d3, dom, trailsData, switchingHistory) {
                 .x(function(d) { return d.currentPoint[0]; })
                 .y(function(d) { return d.currentPoint[1]; });
             
-            svg.append("path")
+            let path = svg.append("path")
                 .attr("class", "laser_trails")
                 .datum(trails)
-                .attr("fill", "yellow")
-                .attr("opacity", "0.5")
-                .attr("stroke", "orange")
+                .attr("fill", "yellow") // 填充色设置为无，因为我们只关注边框
+                .attr("fill-opacity", "0") // 初始透明度为 0
+                .attr("stroke-opacity", "0") // 初始透明度为 0
+                .attr("stroke", "green")
                 .attr("stroke-width", 5)
                 .attr("d", line);
+        
+            // 获取路径长度用于动画
+            let totalLength = path.node().getTotalLength();
+        
+            path.attr("stroke-dasharray", totalLength + " " + totalLength)
+                .attr("stroke-dashoffset", totalLength)
+                .transition() // 开始一个转换
+                .duration(1200) // 动画持续时间，单位为毫秒
+                .ease(d3.easeLinear) // 设置动画的缓动函数
+                .attr("stroke-dashoffset", 0) // 结束状态的 stroke-dashoffset
+                .attr("fill-opacity", "0.2") // 同时将透明度渐变到 0.5
+                .attr("stroke-opacity", "0.9"); // 初始透明度为 0
         }
     }
 

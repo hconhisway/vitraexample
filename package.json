@@ -4,7 +4,7 @@
   "license": "BSD-3-Clause",
   "repository": "uwdata/living-papers-template",
   "scripts": {
-    "assets": "shx mkdir -p build && shx cp -r assets build",
+    "assets": "mkdirp build && cp -r assets build",
     "clean": "rimraf .cache .temp build",
     "prebuild": "npm run assets",
     "build": "lpub -o build --tempDir='.temp' index.md",
