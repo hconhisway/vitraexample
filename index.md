@@ -24,284 +24,230 @@ current_vis = ''
 :::
 
 # Summary
-1. **Napoleon's Retreat Visualization**: P3 introduces a visual representation of Napoleon's retreat from Moscow in 1812, highlighting the correlation between the army's size and temperature changes during the retreat. The red band indicates the army's size at various positions, while the dark band signifies the cold winter retreat [for the retreat](`laser_indexes=[0], current_vis="1920px-Minard_Update.png"`).
+1. **Napoleon's Russian Campaign Visualization Discussion**:
+    - P5 and P6 discussed a map depicting Napoleon's 1812 Russian campaign losses, noting the map's lack of clarity in representing geographical locations and the strategic error of attacking with less than a third of the force.
+    - They observed the retreat path marked by a black line and speculated about a mysterious "tail" on the map, suggesting it might represent a detour by a contingent of the army.
+    - The discussion highlighted the need for clearer indicators of direction and scale on the map.
 
-2. **Temperature and Army Size Correlation**: P3 and P4 discuss the relationship between temperature changes and the army's size. They note a direct correlation where the army's size decreases as temperatures drop, indicating significant losses during colder conditions.
+2. **Analysis of Population Density and Segregation**:
+    - The conversation shifted to analyzing maps showing population density and racial segregation in various U.S. cities and states.
+    - They noted the stark contrast in population density across different regions, with the Midwest and the Rockies being particularly sparse.
+    - The lingering effects of redlining were evident, especially in New York, and the discussion touched on the importance of farmland in sparsely populated states.
+    - Referential gestures were used to point out specific areas of interest, such as Hurricane Alley, densely populated capitals, and areas of racial segregation in cities like Boston and Chicago.
 
-3. **Misinterpretation and Clarification**: Initially, there's confusion about the correlation between the red path, representing the army's size, and temperature changes. P4 clarifies that as the temperature decreases, the band representing the army's size thins out, indicating a decrease in the army's size due to colder temperatures.
+3. **Climate Change Data Visualization Critique**:
+    - P5 and P6 critiqued a graph depicting climate change data, expressing confusion over its design and potential for misinterpretation.
+    - They discussed the graph's color scheme and curve, suggesting improvements for clarity and accessibility.
+    - The conversation touched on the importance of clear data presentation, especially in conveying critical information like climate change trends.
 
-4. **Representation of Army Size**: P4 explains that the number of people present in Napoleon's army is represented by the width of [the colored stones](`laser_indexes=[5], current_vis="1920px-Minard_Update.png"`), further emphasizing the visual representation's significance in understanding the army's size throughout the retreat.
+4. **Hurricane Category Analysis**:
+    - The discussion moved to analyzing hurricane categories and their increasing frequency and intensity.
+    - P5 noted that while Category 3 hurricanes remained relatively constant, there was a noticeable increase in more severe Category 4 and 5 hurricanes.
+    - P6 expressed a desire for clearer categorization of hurricane strength in the data presented.
 
-5. **Analysis of Segregation in U.S. Cities**: P3 and P4 analyze maps showing segregation conditions in different U.S. cities, where one dot represents 120 people, and different ethnic groups are colored differently. They observe significant segregation patterns, such as dense [red pockets](`laser_indexes=[7], current_vis="newYork.jpg"`) of black ethnicity and communities of Asian people tending to be in [the same community](`laser_indexes=[8], current_vis="newYork.jpg"`).
+5. **UN Report on Climate Change and Capitalism**:
+    - P5 mentioned a UN report suggesting the dire need for systemic change to address climate change, critiquing the profitability of current environmental neglect.
+    - P6 expressed skepticism about the effectiveness of repeated warnings without substantial action.
 
-6. **Residential and Amenity Areas**: They identify [residential areas here](`laser_indexes=[14], current_vis="newYork.jpg"`) and [the amenity area](`laser_indexes=[13], current_vis="newYork.jpg"`), discussing the distribution of ethnic groups in these areas and noting the sparser population moving from inner city to the outskirts.
-
-7. **Global Temperature and Climate Change Trends**: P3 and P4 discuss long-term trends in global temperature and climate change, noting a significant rise in temperature from 1880 to 2020, as indicated by [a black line](`laser_indexes=[64], current_vis="Chicago.jpg"`) where the temperature has [risen significantly](`laser_indexes=[65], current_vis="LosA.jpg"`) over the years.
-
-8. **Storm Intensity Analysis**: They analyze the increase in storm intensity over the years, observing more category 5 storms and a general increase in the total number of storms. They note that category 4 storms have become the most prevalent, indicating that storms are getting stronger but not consistently reaching category 5 intensity.
+6. **Long-Term Climate Trends Analysis**:
+    - The conversation concluded with a look at long-term climate trends, highlighting the importance of multi-year data to understand the bigger picture.
+    - P5 pointed out an anomaly in the data for a specific year, sparking curiosity about the underlying cause.
 
 # Transcript
-P4:  And it looks like as they marched from December to October, it reduced.
+P6:  So it says, part one. This map portrays the losses suffered by Napoleon's army in the russian campaign of 1812. The thickness of the thick band shows the size of the army at each position. The path of Napoleon's retreat from Moscow in the cold winter is depicted by the dark lower band, which is tied to the temperature and timescales. Discuss the key events of Williams march. You can discuss the type, location, timing, and cause of events.
 
-P3:  Yeah. So the dark band is depicted as Moscow and the coal ventern retreat. So this is for [the retreat](`laser_indexes=[0], current_vis="1920px-Minard_Update.png"`). This is the army. So that's the cold winter is depicted by the dark bank. So the number of armies that decrease as actually directly correlated to the temperature rise. Is that what this looks like? Because the temperature here is less and here is more and the armies here are more and there is less. I see having a. Yes, go ahead.
+P5:  The first thing that jumped out to me about this, first off, I didn't put together at first that these lines were superimposed on a map. So it would be really helpful if there was, like, country borders from it or something to indicate that this is the physical location as part of this visualization. The next thing that jumps out on me is, what the hell was he thinking, attacking the capitol with less than one third of his force?
 
-P4:  I guess I'm kind of confused about, like, as they're going back.
+P6:  That is true. I feel like it's hard to understand that this is a location, like a location map that I had to figure out that as well. Just by looking. It very was. Napoleon was retreating from the beginning for some reason, like some of his argument. That's weird.
 
-P3:  It doesn't.
+P5:  No, I'm not sure what that little tail is. The black tail on the left hand side.
 
-P4:  Look like the red path is connected to these temperatures, but just like, the dark path here. So I wonder if it's actually more like, as the temperature is going down, the band site is thinning out.
+P6:  I think the black line is for the people who retreated. Right.
 
-P3:  Oh, I was looking on the other side, like December to October. This makes more sense.
+P5:  The black is for the retreat. But that little tail that shoots way up far on the left hand side, I have no idea what's going on there.
 
-P4:  Yeah, I've kind of gone into it at first.
+P6:  I think that's just the road they take or something.
 
-P3:  [Yeah](`laser_indexes=[3], current_vis="1920px-Minard_Update.png"`). Okay so as the temperature increases. So what you're trying to say is as the temperature decreases, the army increases.
+P5:  Maybe. It looks like maybe a contingent went north and then came back down south and rejoiced. What was left of the main course right at the end would be helpful, too, showing the direction of travel.
 
-P4:  I guess, but it just continues to decrease the size of the band.
+P6:  I think the way the line goes is what they intended to portray where they're going, where the army is heading. But still, it's a little bit. Of course, it would be much more helpful if there were arrows and all that. Creature scale is also the thing I feel. It's just like. It's a lot of stuff in a small.
 
-P3:  Wait. Yeah. Wait. So the band width is the size of the army. How does [this](`laser_indexes=[4], current_vis="1920px-Minard_Update.png"`) make.
+P5:  Yeah.
 
-P4:  Yeah, I think because in this line, the number of people present is represented by the width of [the colored stones](`laser_indexes=[5], current_vis="1920px-Minard_Update.png"`).
+P6:  Do you feel anything more relevant? Or we can move to another slide.
 
-P3:  Yeah. Um. Is there anything else that we're missing?
+P5:  Nothing else jumps out at me.
 
-P4:  I guess other. Yeah, I guess the only other thing is it looks like they separated a lot. I think this means that they didn't all continue marching the same way. Other than that, I think that's pretty much it, yeah.
+P6:  Okay, I think we can go ahead to the next one. Did it change for you as well?
 
-P3:  Should we go into the next one?
+P5:  Any patterns of how neighborhoods are segregated? Island. That's the prison where people have been dying a lot, if I remember correctly.
 
-P4:  Yeah.
+P6:  I see. Big thing is, of course that would be true as well, because the white people are majorly in the center of the state or the city.
 
-P3:  Okay.
+P5:  Yeah, that's a different set on the. Okay, Salt Lake is actually.
 
-P4:  Part two. Right.
+P6:  Yeah. But I think Lake Salt Lake is not that densely populated in this.
 
-P3:  Okay.
+P5:  That's true. It's not densely populated, but it's a little bit less obviously segregated than most of the other examples.
 
-P4:  So there are five maps showing different us cities as segregation conditions. Here, one dot represents 120 people. Different ethical. Different ethical group are colored in different colors. I think different ethnic groups are colored in different colors. Our task is, for each map, identify any patterns in how neighborhoods are segregated, compare different cities. What similarities and differences do we notice in the patterns of segregation and any other findings?
+P6:  Yeah.
 
-P3:  One thing that I can see is, like, green is the white ethnicity, and that is very much largely populated in this area, which is the New York Bay area. I don't know what [this](`laser_indexes=[6], current_vis="newYork.jpg"`) is called.
+P5:  Which is interesting. You can definitely see the lingering effects of redlining. It's clear as day.
 
-P4:  I feel like it might say Manhattan, maybe.
+P6:  Yeah.
 
-P3:  And then this one, the one that is largely populated by black ethnicity.
+P5:  Especially in New York. Oh, my God. New York's also densely populated, as all.
 
-P4:  Yeah, that's another big pocket. There's, like, very small but very dense [red pockets](`laser_indexes=[7], current_vis="newYork.jpg"`).
+P6:  Think. But this doesn't mention the year. Right? Or maybe I have not seen it.
 
-P3:  So it kind of shows, like, all the asian people are. Tend to be in [the same community](`laser_indexes=[8], current_vis="newYork.jpg"`). Orange are his pallets?
+P5:  Yeah, you're right. It doesn't mention the year. I can't imagine it's too old, but it would be good to know when it's from.
 
-P4:  Yeah, this one's interesting. I feel like there's a mix of [other dots](`laser_indexes=[11], current_vis="newYork.jpg"`) as well. Like a few greens, a few red.
+P6:  Yeah, I guess that would be more. Would help to figure out more about the things that is there.
 
-P3:  As well. It's like mix of everything.
+P5:  It's from census data, so it's either at the newest, it's from 2020, but it could be older, I guess.
 
-P4:  This is blue and orange. So a lot of [hispanic and black](`laser_indexes=[12], current_vis="newYork.jpg"`).
+P6:  Yeah. By seeing this map of the whole United States, I just feel like how the density of population is so low.
 
-P3:  Ethnic. Yeah.
+P5:  Yeah. Most of the country has nobody in it.
 
-P4:  I guess another thing is it's a lot sparser going from, I guess, inner city to the outside.
+P6:  Yeah. Most of the midwest is just like, empty.
 
-P3:  So these are like the skyscraper areas over here, whereas all the tech and all the big buildings are. This is like [the amenity area](`laser_indexes=[13], current_vis="newYork.jpg"`). What do you call [that area](`laser_indexes=[13], current_vis="newYork.jpg"`)? Like the people.
+P5:  Yeah. The Midwest and the Rockies especially. Yeah. The Sierra Nevada.
 
-P4:  Probably more like [residential areas here](`laser_indexes=[14], current_vis="newYork.jpg"`).
+P6:  Nevada is mostly empty.
 
-P3:  Even though it's parse, we can see a lot of green dots.
+P5:  And then a fat ton of people live in Phoenix where it routinely reaches, like 110 degrees for some reason.
 
-P4:  Yeah.
+P6:  Yeah. Washington is pretty empty as well. I went to Seattle a couple of times, but I didn't realize, like, Washington was not densely populated as well. Other than Seattle, of.
 
-P3:  Interesting.
+P5:  Yeah. Yeah. Basically nowhere in the US is densely populated unless you're near a major. That. That belt from Boston down through New York, through Philadelphia to DC. But outside of that and the major cities, it's almost empty.
 
-P4:  I guess I'm [circling this](`laser_indexes=[17], current_vis="newYork.jpg"`) because I'm assuming it's people that literally live in these areas. I guess this is technically still, like, residential areas. It's just maybe apartment buildings and complexes instead of just houses, perhaps.
+P6:  Yeah, exactly. Next thing I want to discuss was, like, these states, which are mostly empty, are very important farmlands.
 
-P3:  Yeah. So I think there is, like, a dense population in the center of New York. And then [these are](`laser_indexes=[18], current_vis="newYork.jpg"`), like [the more household residential areas](`laser_indexes=[18], current_vis="newYork.jpg"`). Like small house of specific types like we see in [Utah](`laser_indexes=[19], current_vis="newYork.jpg"`). I don't know. Yeah, I guess.
+P5:  Yeah. So the Dakotas, Nebraska, Kansas, a lot of farmlands. I think Iowa, too. And then further west of that you have the Rockies. And it's kind of hard to live in the. I mean, I like mountains, but it's hard to build in the mountains, especially infrastructure and roads and stuff.
 
-P4:  Do you want to try comparing the next.
+P6:  I think Wyoming is very evenly distributed for some reason. I think it looks the most clean and evenly.
 
-P3:  Yes.
+P5:  Nobody lives there. Also, the quarter of the state is Yellowstone National park.
 
-P4:  I'm looking at tripod.
+P6:  Right. That's true.
 
-P3:  Yes.
+P6:  C Just a reminder that you can communicate with each other using the laser pen to direct attention, et cetera, with the cities especially, are not familiar with it.
 
-P4:  That's kind of interesting because there's a lot of very cut off, very straight cut off points.
+P6:  A lot of people I was thinking of [lives there](`laser_indexes=[1], current_vis="newYork.jpg"`). Even [lake](`laser_indexes=[1], current_vis="Chicago.jpg"`) is very like. I think there's a cyclone and hurricane every other year.
 
-P3:  Yeah, there's nothing over here in this specific area.
+P5:  Yeah. A lot of people live down [here](`laser_indexes=[2], current_vis="LosA.jpg"`) in Hurricane Alley.
 
-P4:  Might be a highway.
+P6:  I think they are just learned to live with [that](`laser_indexes=[3], current_vis="Boston.jpg"`) and all that.
 
-P3:  Might be. But there are, like, in the middle. There are, like, small, small areas where are maybe these are, like, [more monumental places](`laser_indexes=[22], current_vis="Chicago.jpg"`).
+P5:  Yeah, I think it's a lot of ires that came down for the [nice weather](`laser_indexes=[4], current_vis="SLC.jpg"`) and the beaches.
 
-P4:  And it also looks like there's not a lot of mixing of the ethnic.
+P6:  I think most of [the capitals](`laser_indexes=[5], current_vis="TUS.jpg"`) are [populated](`laser_indexes=[6], current_vis="SeasonalTemp.jpg"`), which it should be, but, like, [not in](`laser_indexes=[7], current_vis="TUS.jpg"`).
 
-P3:  Groups, the ones that I see over on this side.
+P5:  Well, [Chicago](`laser_indexes=[8], current_vis="SLC.jpg"`) is not the capital of [Illinois](`laser_indexes=[9], current_vis="Boston.jpg"`).
 
-P4:  Yeah. I wonder what changes, I guess, past this point where it starts [mixing together](`laser_indexes=[24], current_vis="Chicago.jpg"`) a lot more.
+P6:  Yeah, but it could be the way it's populated. I think we can.
 
-P3:  Level.
+P5:  The next task. This one?
 
-P4:  Yeah. Looking at [the depth there](`laser_indexes=[25], current_vis="Chicago.jpg"`).
+P6:  No, I think we can look in the city maps.
 
-P3:  Compared to the first one, we can see that the population for the red is very less.
+P5:  Yeah.
 
-P4:  Yeah, that's also true. This is like [the main pocket](`laser_indexes=[26], current_vis="Chicago.jpg"`), I think.
+P6:  I think Boston is very nicely segregated. It's like [just](`laser_indexes=[10], current_vis="LosA.jpg"`).
 
-P3:  Should we go to the next one?
+P5:  [South Boston](`laser_indexes=[11,12], current_vis="newYork.jpg"`).
 
-P4:  Yeah. Los Angeles. There's a lot of orange all around, which is.
+P6:  This [area](`laser_indexes=[13], current_vis="TUS.jpg"`) is like [North Boston](`laser_indexes=[14], current_vis="SeasonalTemp.jpg"`) is.
 
-P3:  That of red. Like orange and red. Yeah. You can see the population of blue is, like, going down a lot. Significantly.
+P5:  Almost all white people and South Boston is almost [devoid of them](`laser_indexes=[15], current_vis="TUS.jpg"`).
 
-P4:  Yeah, I still mean south. [Yeah](`laser_indexes=[27], current_vis="LosA.jpg"`). Can see that, too. And then most of the green is [up here](`laser_indexes=[28], current_vis="LosA.jpg"`).
+P6:  I don't know what's going in [this area](`laser_indexes=[16], current_vis="SLC.jpg"`) because it's mix of colors other than [green](`laser_indexes=[17], current_vis="Boston.jpg"`).
 
-P3:  Yeah. There's a distinct, like, line between yours. Orange, blue, red. And then there's green hover.
+P5:  Mostly [the Hispanics](`laser_indexes=[18], current_vis="Boston.jpg"`). There's like [a line](`laser_indexes=[19], current_vis="LosA.jpg"`). All the white people are on one side of the line.
 
-P4:  Yeah.
+P6:  Yeah.
 
-P3:  [Line over here](`laser_indexes=[30], current_vis="LosA.jpg"`). What is in this area that. So many [red](`laser_indexes=[31], current_vis="LosA.jpg"`) and [orange dots](`laser_indexes=[32], current_vis="LosA.jpg"`).
+P5:  Chicago.
 
-P4:  Yeah. That's kind of interesting. I don't know what's keeping. Why aren't they more mixed up? The distinction is we can see over.
+P6:  [Chicago](`laser_indexes=[20], current_vis="Chicago.jpg"`) has died.
 
-P3:  Here, it's like a big cluster of orange, but there's like sparse of dot, dot. You get [separate dots](`laser_indexes=[34], current_vis="LosA.jpg"`).
+P5:  And then [this](`laser_indexes=[22,23], current_vis="Chicago.jpg"`). And then this is mostly hispanic people [up in here](`laser_indexes=[22,23,24], current_vis="Chicago.jpg"`). [This](`laser_indexes=[25,26,27], current_vis="Chicago.jpg"`) especially.
 
-P4:  Yeah. This is kind of interesting. There's a lot of dismixing here.
+P6:  And basically like [this coastline](`laser_indexes=[28], current_vis="Chicago.jpg"`).
 
-P3:  Maybe that's a downtown, like [the media](`laser_indexes=[35], current_vis="LosA.jpg"`).
+P5:  Yeah, [coastline](`laser_indexes=[29], current_vis="Chicago.jpg"`) seems to be where the white people like to congregate.
 
-P4:  Yeah, that makes sense.
+P6:  But I think this is like the bridge, which expensive area.
 
-P3:  There are also like an [empty pocket over on the side](`laser_indexes=[36], current_vis="LosA.jpg"`).
+P5:  Yeah.
 
-P4:  Yeah. I wonder what that is.
+P6:  But this is like [very clear](`laser_indexes=[30], current_vis="Chicago.jpg"`), [separate line](`laser_indexes=[30], current_vis="Chicago.jpg"`), isn't it? Because I see very less mixture of blue in [here](`laser_indexes=[31], current_vis="Chicago.jpg"`) and very less mixture [line](`laser_indexes=[32,33], current_vis="Chicago.jpg"`).
 
-P3:  [Maybe](`laser_indexes=[37], current_vis="LosA.jpg"`) [that](`laser_indexes=[38], current_vis="LosA.jpg"`) would make sense.
+P5:  Yeah, [here](`laser_indexes=[34], current_vis="Chicago.jpg"`) as well.
 
-P4:  Yeah.
+P6:  Much more depth.
 
-P3:  Over here.
+P5:  Central park.
 
-P4:  Yeah. Interesting. [Compared to the other ones](`laser_indexes=[40], current_vis="LosA.jpg"`), sometimes a lot more [orange](`laser_indexes=[40], current_vis="LosA.jpg"`). The past one. Should you do the next one?
+P6:  Yeah. Because I think that it's super expensive, [super high](`laser_indexes=[38], current_vis="newYork.jpg"`).
 
-P3:  Yes.
+P5:  There's [Central park](`laser_indexes=[39], current_vis="newYork.jpg"`) where no one lives, and then all the [6,000 a month apartment](`laser_indexes=[40], current_vis="newYork.jpg"`). I don't actually know how much they cost, but they're expensive as fuck.
 
-P4:  So Boston, that's a lot of green.
+P6:  [Here](`laser_indexes=[41], current_vis="newYork.jpg"`). You can see it's a good place to live. I think it's [very close](`laser_indexes=[41], current_vis="newYork.jpg"`), but it's clearly segregated in [this particular area](`laser_indexes=[42], current_vis="newYork.jpg"`). And the doctor clearly [segregated](`laser_indexes=[43,44], current_vis="newYork.jpg"`) as well. I think we can move on to other tasks, right?
 
-P3:  Yeah, a lot of green. A little bit of blue.
+P5:  Probably, yeah. [Departure from](`laser_indexes=[45], current_vis="SeasonalTemp.jpg"`).
 
-P4:  Yeah.
+P6:  I'm not very clear what this map is.
 
-P3:  Not much orange. Like few.
+P5:  Yeah, this is a weird visualization, I think as the lines go from yellow to red, which is an interesting choice of colors, I would have done like, blue to yellow or something. Yellow to red is going to be especially for colorblind people. But even if you're not, yellow is still half red. Interesting.
 
-P4:  Yeah, just those two little bits. A little bit more [here](`laser_indexes=[41], current_vis="Boston.jpg"`).
+P6:  And I don't understand the need for a curve here. It just confuses because my first thinking was it was going up, up, and then it started to fall down. I think many people.
 
-P3:  Oh, yeah. That looks like red to me, though.
+P5:  Yeah, a lot of people are going to misinterpret this as, oh, the temperature is [getting better](`laser_indexes=[46], current_vis="SeasonalTemp.jpg"`), [2020](`laser_indexes=[47], current_vis="SeasonalTemp.jpg"`) is [over here](`laser_indexes=[48], current_vis="SeasonalTemp.jpg"`). No, that's not what it means. That's not at all what it means. [Left to right](`laser_indexes=[49], current_vis="SeasonalTemp.jpg"`) is for one year, apparently. It looks like, so, like [January](`laser_indexes=[50], current_vis="SeasonalTemp.jpg"`), [July](`laser_indexes=[51,52], current_vis="SeasonalTemp.jpg"`), and then clearly getting [warmer](`laser_indexes=[53,54], current_vis="SeasonalTemp.jpg"`) and [warmer](`laser_indexes=[55,56], current_vis="SeasonalTemp.jpg"`) and [warmer](`laser_indexes=[57,58], current_vis="SeasonalTemp.jpg"`) if you spend a few seconds figuring out how to read the graph.
 
-P4:  So you're staying here?
+P6:  Yeah. But I think I feel like graph should be crystal clear and we are so much more. We shouldn't have to discuss about it.
 
-P3:  Yes. Highly densely populated in [this area](`laser_indexes=[43], current_vis="Boston.jpg"`). Mostly. Invite the queen.
+P5:  Yeah. This is the kind of graph that I would expect to see someone on Fox News take out a [dog type deal](`laser_indexes=[59], current_vis="SeasonalTemp.jpg"`), just like, [see the general shape](`laser_indexes=[60], current_vis="SeasonalTemp.jpg"`) and be like, [yeah](`laser_indexes=[61], current_vis="SeasonalTemp.jpg"`). I [don't know](`laser_indexes=[62], current_vis="SeasonalTemp.jpg"`). That make you confused, but it definitely has that effect. Someone can definitely end up taking the wrong message from it, even writing an article on it, either just mistakenly just because they read the graph wrong, or maliciously because they're trying to mislead people. And this would be a very good graph with which to do that because it's technically correct, but could easily be [misinterpreted](`laser_indexes=[63], current_vis="SeasonalTemp.jpg"`), especially as incorrectly presented to give the exact wrong impression.
 
-P4:  It's kind of quick how it goes from pretty dense to very [sparse](`laser_indexes=[44], current_vis="Boston.jpg"`).
+P6:  And for some reason it says [1982 at 15](`laser_indexes=[64], current_vis="SeasonalTemp.jpg"`), but it still shows 2020 data. I don't know [why is that](`laser_indexes=[65], current_vis="SeasonalTemp.jpg"`)?
 
-P3:  Yes, it's like [gradually increasing](`laser_indexes=[45], current_vis="Boston.jpg"`) from heavily more.
+P5:  I think the colors are 2020 [over here](`laser_indexes=[66], current_vis="SeasonalTemp.jpg"`) on the [right end of the graph](`laser_indexes=[67], current_vis="SeasonalTemp.jpg"`).
 
-P4:  [Sorry.](`laser_indexes=[47], current_vis="Boston.jpg"`)
+P6:  [Yeah](`laser_indexes=[68], current_vis="SeasonalTemp.jpg"`). And it says, like [80 here](`laser_indexes=[68], current_vis="SeasonalTemp.jpg"`). And it says [18](`laser_indexes=[69], current_vis="SeasonalTemp.jpg"`).
 
-P3:  You can go ahead.
+P5:  [Yeah](`laser_indexes=[70], current_vis="SeasonalTemp.jpg"`). What the heck? Is this like [the average](`laser_indexes=[71], current_vis="SeasonalTemp.jpg"`) for. [Average](`laser_indexes=[71], current_vis="SeasonalTemp.jpg"`)? Is that the average for that year or is that like the average over [that entire time period](`laser_indexes=[72], current_vis="SeasonalTemp.jpg"`)?
 
-P4:  Sorry. I was going to say it's pretty consistent that it's just like [green](`laser_indexes=[48], current_vis="Boston.jpg"`) and then all the dogs separated.
+P6:  Yeah, I would not like to.
 
-P3:  Yeah, there's a whole lot of bunch of [blues over in here](`laser_indexes=[49,50], current_vis="Boston.jpg"`) and then not any other. You can see reds over here. [Over here](`laser_indexes=[49], current_vis="Boston.jpg"`) and then like, [over here](`laser_indexes=[50], current_vis="Boston.jpg"`).
+P5:  No, definitely not want to move on?
 
-P4:  [Yeah](`laser_indexes=[52], current_vis="Boston.jpg"`).
+P6:  Yeah.
 
-P3:  There'S [a lot of](`laser_indexes=[53], current_vis="Boston.jpg"`).
+P5:  Okay. Think rolling. Average. Yeah. Because you're getting a [lot more of them](`laser_indexes=[73], current_vis="Storms.jpg"`), and we're also getting a lot more of [the big ones](`laser_indexes=[73], current_vis="Storms.jpg"`), like [this cat four](`laser_indexes=[74], current_vis="Storms.jpg"`). Cat five window is where most the expansion is occurring.
 
-P4:  Also just like pockets of empty. No people, which makes sense, I guess there's just a lot of water around.
+P6:  Might sound right, but the quantity of quality of new targeted later.
 
-P3:  The one thing that I notice is like, if there's a water body and that. Exactly. The being gets highly densely populated. For example, in this part. This is highly densely populated over here. Probably [the main being downtown area](`laser_indexes=[54], current_vis="Boston.jpg"`) I can think of. [Interesting](`laser_indexes=[56], current_vis="Boston.jpg"`). Do we have any more?
+P5:  Yeah, it's almost like [cat three](`laser_indexes=[75], current_vis="Storms.jpg"`) has almost remained relatively [constant](`laser_indexes=[76], current_vis="Storms.jpg"`). It's like we're getting more hurricanes and the new ones are the strongest type. Doubly bad.
 
-P4:  I think that might be the last one for the cities. No. Do we want to look at the next one?
+P6:  But I think it would have been good if they had. What cat is kind of [has it](`laser_indexes=[77], current_vis="Storms.jpg"`).
 
-P3:  Yeah, sure. Okay.
+P5:  [Here](`laser_indexes=[78], current_vis="Storms.jpg"`) over x miles per hour.
 
-P4:  Actually, I guess. Did you have any other thoughts about among all of the maps, any significant comparisons?
+P6:  But, yeah, this is a pain in a holding knowledge. I'm getting depressed about the names and everything.
 
-P3:  I can see that this one is very populated. Each and every other maps. You can see that there are sparse areas around. I was talking about the cities. Sorry. Yeah, I was talking about the New York one. You can see even if from this specific, from the small map itself, we can see that the New York one is like. We can see the color very clearly [green blotch](`laser_indexes=[57], current_vis="SeasonalTemp.jpg"`) rather than the other cities, whereas even though it is [highly populated](`laser_indexes=[58], current_vis="newYork.jpg"`), but more spread out like this. Reason populated. We have like a [big green lot](`laser_indexes=[59], current_vis="TUS.jpg"`) [over here](`laser_indexes=[60], current_vis="TUS.jpg"`). New blotch [over here](`laser_indexes=[60], current_vis="newYork.jpg"`). Red one over here. One thing I should [I populated](`laser_indexes=[62,63], current_vis="newYork.jpg"`).
+P5:  Has to do. The Un recently came out with a report that said something to the effect. I mean, not as directly because it's the UN, but basically the report stated, we're boned unless revolution, unless we get rid of capitalism.
 
-P4:  Yeah. Because this was just a lot more density. The over map.
+P6:  I just feel like they have been saying it for [so many years](`laser_indexes=[79], current_vis="Storms.jpg"`), the only thing they've been able to do is [fail](`laser_indexes=[80], current_vis="Storms.jpg"`).
 
-P3:  Should we go to something else?
+P5:  It's not [profitable](`laser_indexes=[81], current_vis="Storms.jpg"`) to actually [do anything](`laser_indexes=[82], current_vis="Storms.jpg"`) about it. It's more profitable to [keep up with](`laser_indexes=[83], current_vis="Storms.jpg"`).
 
-P4:  Yeah, I guess part three is meant.
+P6:  Yeah. Okay.
 
-P3:  Can you analyze the long term trends and global temperature and climate change, discuss what you find from the graph, move to the next one once you finished.
+P5:  Active fire. Hot. It just. In 2020, kind of hard to just showing one year's worth of data doesn't really tell you anything about long term trends in the climate. Here it is, [2001 to 2019 average](`laser_indexes=[84], current_vis="FIrehotspot.jpg"`). I see. Okay.
 
-P4:  Sorry. Trying to figure out how to click around. And now it's on the way. Okay, now I'm there.
+P6:  I remember what's happening in [January](`laser_indexes=[85], current_vis="FIrehotspot.jpg"`).
 
-P3:  So we are on the temperature cycle. So the colors, like the gradient, represents the number increasing years. So 1880 to 2020, which is [a black line](`laser_indexes=[64], current_vis="SeasonalTemp.jpg"`) where we can see clearly that the temperature has [risen significantly](`laser_indexes=[65], current_vis="Boston.jpg"`) [decreasing years](`laser_indexes=[66], current_vis="SeasonalTemp.jpg"`).
+P5:  Yes. [The heck happened here](`laser_indexes=[86], current_vis="FIrehotspot.jpg"`)? This actually, overall seems to be [less than normal](`laser_indexes=[87], current_vis="FIrehotspot.jpg"`), but except for [whatever](`laser_indexes=[88], current_vis="FIrehotspot.jpg"`) the.
 
-P4:  I'm kind of confused [what](`laser_indexes=[67], current_vis="Boston.jpg"`) the. I guess the slope of [these lines](`laser_indexes=[68], current_vis="SeasonalTemp.jpg"`).
-
-P3:  Are supposed to be. I kind of think, like, this is the January, February, March. Like, this would be [the summer part](`laser_indexes=[69,70,71], current_vis="Chicago.jpg"`). That would make sense. Like from [January](`laser_indexes=[70], current_vis="LosA.jpg"`) it's going on. Then it gets [spring over here](`laser_indexes=[71], current_vis="Boston.jpg"`) and then winter, which is the. Oh, no, I think I did. Yeah. So this would be [the summer](`laser_indexes=[69,70,71], current_vis="SLC.jpg"`). Summer, then winter. Okay.
-
-P4:  Yeah, I guess. I tried zooming out a bunch, but I think the axes might just be.
-
-P3:  Cut off for me a bit. I do not have the x axis as well. I just assumed it should be like that because the worst temperature, which is minus two degree, and then this would be the minus plus two celsius.
-
-P4:  Okay, that makes sense. So I think the entire line is like the course of a single year.
-
-P3:  Yeah.
-
-P4:  Okay.
-
-P3:  Well, I think that I can see the temperature is rising every year.
-
-P4:  [Yeah](`laser_indexes=[72], current_vis="TUS.jpg"`). And it seems to be [pretty consistent](`laser_indexes=[73], current_vis="SeasonalTemp.jpg"`). Like, there's no [anomalies during the years](`laser_indexes=[73], current_vis="LosA.jpg"`). They all make the same giant shapes.
-
-P3:  And then. I don't know, with this, there's very less overlapping between them. So not every two years, like five years, has had the same temperature. Maybe there's like a [distinct](`laser_indexes=[74], current_vis="SeasonalTemp.jpg"`) [threats](`laser_indexes=[75], current_vis="SeasonalTemp.jpg"`) we can [see](`laser_indexes=[76], current_vis="SeasonalTemp.jpg"`).
-
-P4:  Yeah, I guess. I can't tell if this jump in, like, the gradient from this orange to this more pink color is like just a drastic change in temperature or in time. It's kind of hard to tell true.
-
-P3:  If you think that the orange is somewhere in the middle and then that's starting to get red or, like, [darker over here](`laser_indexes=[78], current_vis="SeasonalTemp.jpg"`) and then getting [more hotter](`laser_indexes=[79], current_vis="SeasonalTemp.jpg"`). Let's say [it's](`laser_indexes=[80,81,82,83], current_vis="SeasonalTemp.jpg"`). That's all I can see from [this curve](`laser_indexes=[84], current_vis="SeasonalTemp.jpg"`). Do we want to go to [another one](`laser_indexes=[85], current_vis="SeasonalTemp.jpg"`)?
-
-P4:  Yeah, let's do that.
-
-P3:  Okay.
-
-P4:  So part three, can you analyze any long term trends in global temperatures and climate change? Discuss what you find from the graphs, move to the next one once you're finished.
-
-P3:  Number of stones that we're getting. Is this what it's saying? Number of storms?
-
-P4:  Yeah, I guess the [number of these specific types of storms](`laser_indexes=[86], current_vis="Storms.jpg"`). I guess there's [three different categories](`laser_indexes=[86,87], current_vis="Storms.jpg"`) for them.
-
-P3:  Okay. Yeah. One thing is different with the coming years, we are getting more of the [get warrant category five](`laser_indexes=[88], current_vis="Storms.jpg"`) and [then](`laser_indexes=[89], current_vis="Storms.jpg"`). Yeah. So like total number is also getting higher.
-
-P4:  Yeah.
-
-P3:  I can see that.
-
-P4:  And I was going to say like I wonder why. The cat threes have been pretty consistent, not rising too much, but I guess those storms have just advanced to be more intense ones.
-
-P3:  Yeah. Also we have about euro, we have [minimum of the least amount of storms](`laser_indexes=[91], current_vis="Storms.jpg"`) we have ever bought strengthen. I think [the category four](`laser_indexes=[95], current_vis="Storms.jpg"`) is the most that we have got it from. Like category three is, [as you said](`laser_indexes=[95], current_vis="Storms.jpg"`), as [the consistent one](`laser_indexes=[95], current_vis="Storms.jpg"`), category four is [the most one](`laser_indexes=[95], current_vis="Storms.jpg"`) and category five is. So I guess the strongs are getting stronger to become a category four but not strong enough to become a category five.
-
-P4:  Yeah, I feel like as time passes we'll see if it will end up being where [this category three and four and then cat five starts to go to faster rate](`laser_indexes=[96], current_vis="Storms.jpg"`) or if it'll like plateau.
-
-P3:  Yes.
-
-P4:  That was like to be bad.
-
-P3:  Here's like [stagnant rise](`laser_indexes=[97], current_vis="Storms.jpg"`) and then [stagnant](`laser_indexes=[98], current_vis="Storms.jpg"`) and then I think there will again be a rise, but I'm guessing [go from the trench](`laser_indexes=[99], current_vis="Storms.jpg"`). [Yeah, hopefully not.](`laser_indexes=[100], current_vis="Storms.jpg"`) Hopefully not. Should we end the. Yeah, sure. Can you analyze any long term trends in the global temperature and climate change? Discuss what you find from the graph, move on to the next one once you finish.
-
-P4:  Okay.
-
-P3:  Yeah. So this is like fire hotspot. So basically the temperature rise in three different countries. Okay. It's not really the same country.
-
-P4:  I guess it's fire activity in the countries.
-
-P3:  [Oh, yeah.](`laser_indexes=[101], current_vis="FIrehotspot.jpg"`)
-
-P4:  So maybe [hot areas](`laser_indexes=[102], current_vis="FIrehotspot.jpg"`) where it's a lot that fires can start.
-
-P3:  I was assuming it to be more of like the wildfires that we get in the forest or stuff like that.
-
-P4:  Okay, I see. So maybe not like it gets temporarily, like the temperature gets hot, but it's like its highest risk for fired.
-
-P3:  Because how would NASA know where the fire, like a building is going to get a fire? Russia has the highest one. Hello.
-
+P6:  Hell happened here, you see, like, all this. Yeah.
