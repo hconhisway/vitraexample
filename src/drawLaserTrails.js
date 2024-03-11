@@ -1,7 +1,7 @@
 export default function (d3, dom, trailsData, switchingHistory) {
     const screenHeight = window.innerHeight;
     const svgHeight = screenHeight;
-    const svgWidth = 650
+    const svgWidth = 800
     let aspectRatioSum = 0.0;
     let widthOfCurrentSelectedImage = 0;
     let heightOfCurrentSelectedImage = 0;
@@ -192,7 +192,7 @@ export default function (d3, dom, trailsData, switchingHistory) {
         const displayThreshold = 1;
         svg.selectAll('image')
         .transition()
-        .duration(500)
+        .duration(0)
         .attr("x", (d, i, nodes) => {
             if (d.src === _) {
                 
