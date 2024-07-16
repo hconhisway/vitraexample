@@ -2,11 +2,11 @@
 
 This notes tool is based on [Living Papers](https://github.com/uwdata/living-papers/).
 
-## Instructions
+## Data Collection and Post-processing
 
-### Data Collection
+The data can be collected through a modified Eclidraw interface which is available [here](https://github.com/hconhisway/vitraNote) and [here](https://github.com/hconhisway/vitraNote-room). 
 
-The data can be collected through a modified Eclidraw interface which is available [here](https://github.com/hconhisway/vitraNote-room). 
+The post-processing code is in main.py. But will need an openai api key and set up own server to run.
 
 ## How to Use
 
