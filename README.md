@@ -1,19 +1,18 @@
-# living-papers-template
+# Conference Notes with Living-papers
 
-A [Living Papers](https://github.com/uwdata/living-papers/) article starter template.
-Copy this repository and edit to make your own article.
-
-This template is set up to produce a web-based article from a Markdown source file named `index.md`. Any figures, datasets, and other external files should be placed in the `assets` folder.
-
-View the published sample article content at [https://uwdata.github.io/living-papers-template/](https://uwdata.github.io/living-papers-template/).
-
-For more usage examples, see the [example articles](https://github.com/uwdata/living-papers/tree/main/examples) in the main Living Papers repository.
+This notes tool is based on [Living Papers](https://github.com/uwdata/living-papers/).
 
 ## Instructions
 
-### Pre-Requisites
+### Data Collection
 
-Before working with Living Papers, set up your local environment:
+The data can be collected through a modified Eclidraw interface which is available [here](https://github.com/hconhisway/vitraNote-room). 
+
+## How to Use
+
+(Copied from [living-papers repository](https://github.com/uwdata/living-papers))
+
+### Pre-Requisites
 
 1. Install [Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) if you don't have them already. We recommend using a node version manager like [nvm](https://github.com/nvm-sh/nvm). Node v16.17 or higher is recommended.
 2. Install [pandoc >= 2.18](https://pandoc.org/installing.html). You should be able to run `pandoc` from the command line.
